@@ -34,14 +34,13 @@ theme = "LoveIt"
 
 [params.footer]
   enable = true
-  author = true
 
 [params.home]
   [params.home.profile]
     enable = true
     avatarURL = "https://avatars.githubusercontent.com/u/68725934?s=400&u=16cedd8ba469f8748ccdf8fea21e6fed5976d52c&v=4"
     title = "Alex Zeng"
-    subtitle = "Full-Stack Developer | UX/UI Designer"
+    subtitle = "Full-Stack Developer | UI/UX Deisgner "
     typeit = true
     social = true
   [params.home.posts]
@@ -71,13 +70,22 @@ theme = "LoveIt"
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 1
+
+  [[menu.main]]
     identifier = "posts"
     pre = ""
     post = ""
     name = "Works"
     url = "/posts/"
     title = ""
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "tags"
@@ -86,7 +94,7 @@ theme = "LoveIt"
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "categories"
@@ -95,16 +103,8 @@ theme = "LoveIt"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 3
-
-  [[menu.main]]
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About"
-    url = "/aboutme/"
-    title = ""
     weight = 4
+
 
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
@@ -113,6 +113,6 @@ theme = "LoveIt"
     noClasses = false    
 
 [author]
-  name = "Jilie Zeng"
+  name = "Alex Zeng"
   email = "zengjiile@gmail.com"
   link = ""
