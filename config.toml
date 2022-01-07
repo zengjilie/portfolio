@@ -1,0 +1,118 @@
+baseURL = "http://example.org/"
+languageCode = 'en-us'
+title = "Jilie's Blog"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  version = "0.2.X"
+  description = "This is My New Hugo Site"
+  keywords = ["Theme", "Hugo"]
+  defaultTheme = "light"
+  gitRepo = "https://github.com/zengjilie/portfolio.git"
+  fingerprint = "sha256"
+  dateFormat = "2006-01-02"
+  images = ["/logo.png"] 
+
+[params.search] 
+  enable = true
+  type ="lunr"
+  contentlength = 4000
+  placeholder = ""
+  maxResoltLengthj = 10
+  snippetLength = 30
+  highlightTag = "em"
+  absoluteURL = false
+
+[params.header]
+  desktopMode = "fixed"
+  mobileMode = "auto"
+  [params.header.title]
+    logo = ""
+    name = "Alex's Portfolio"
+
+[params.footer]
+  enable = true
+  author = true
+
+[params.home]
+  [params.home.profile]
+    enable = true
+    avatarURL = "https://avatars.githubusercontent.com/u/68725934?s=400&u=16cedd8ba469f8748ccdf8fea21e6fed5976d52c&v=4"
+    title = "Alex Zeng"
+    subtitle = "Full-Stack Developer | UX/UI Designer"
+    typeit = true
+    social = true
+  [params.home.posts]
+    enable = true
+    paginate = 6
+
+[params.typit]
+  speed = 100
+
+[params.social]
+  Github = "zengjilie"
+  Linkedin = "jilie-zeng-480857200"
+  Twitter = "AlexTse13172461"
+  Instagram = "zengjilie"
+  Facebook = "100013466703480"
+  Zhihu = "alex-tseng-5"
+
+[params.page]
+  [params.page.share] 
+    enable = true
+    Twitter = true
+    Facebook = true
+    Linkedin = true
+    Weibo = true
+  [params.page.comment]
+    enable = false
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Works"
+    url = "/posts/"
+    title = ""
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/aboutme/"
+    title = ""
+    weight = 4
+
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false    
+
+[author]
+  name = "Jilie Zeng"
+  email = "zengjiile@gmail.com"
+  link = ""
