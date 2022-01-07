@@ -1,0 +1,19 @@
+{
+    "name": "LoveIt",
+    "short_name": "LoveIt",
+    "icons": [
+        {
+            "src": "/programmer-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/programmer-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
