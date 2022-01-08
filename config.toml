@@ -38,7 +38,7 @@ theme = "LoveIt"
   mobileMode = "auto"
   [params.header.title]
     logo = ""
-    name = "Alex's Blog"
+    name = "Alex's Portfolio"
 
 [params.footer]
   enable = true

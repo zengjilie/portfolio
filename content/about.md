@@ -12,10 +12,9 @@ code:
 {{< /style >}}
 
 ## What I'm doing
-Hi,there! I'am Alex 👋
+Howdy! I'am Alex 👋
 
-After learning design stuff for 4 years, I decided to change my career path to software developement after watching the TV Silicon Valley. Now I have been coding for 2 years, and still going on! 💻
-
+After learning how to design stuff for 4 years, I decided to change my career path to software engineering because I want to make my design come true. Now I have been coding for 2 years, and still on! 💻
 I am curretly working on full-stack dev, welcome to my website!
 
 ## Tech I use 
@@ -27,10 +26,10 @@ I am curretly working on full-stack dev, welcome to my website!
     - React.js, Express.js, Next.js
 
 **Tools**
-    - VSCode, Vim, Github, Taiwind CSS
+    - VSCode, Vim, Github, Tailwind CSS
 
 **Database**
-    - Firebase, MongoDB, MySQL, PostgreSQL
+    - Firebase, MongoDB, MySQL
 
 **Dev Environment**
     - Linux, MacOS, Pop!OS
@@ -48,7 +47,7 @@ I am curretly working on full-stack dev, welcome to my website!
 
 **University of Texas at Austin**
 
-Master of Science in Information Studies/Science
+Master of Science in Information Science
 
 2021 - persent
 
@@ -56,7 +55,7 @@ Master of Science in Information Studies/Science
 
 **National Taiwawn University of Science and Technology**
 
-Bechalor of Design in Industrial Deisgn
+Bachelor of Design in Industrial Design
 
 2016 - 2022
 
@@ -89,7 +88,7 @@ Product design, award 10,000 TWD
     -Config my Vim, Mechanical Keyboard
 
 **Sports**
-    -Table Tennic, Fitness
+    -Table Tennis, Fitness
 
 **Music**
     -Math Rock, Electric, Jazz Fusion

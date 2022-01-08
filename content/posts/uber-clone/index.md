@@ -1,5 +1,5 @@
 ---
-title: "Uber Clone 3 days Challenge"
+title: "Uber Clone Challenge"
 description: "How I build a uber clone in 3 days"
 date: 2022-01-07T13:44:16-06:00
 draft: false
@@ -7,7 +7,7 @@ draft: false
 author: "Alex"
 
 tags: [React Native, Tailwind, Redux, Google Maps]
-categories: [MobileApp]
+categories: [Mobile App]
 draft: false 
 
 images : [/posts/uber-clone/uber.png]

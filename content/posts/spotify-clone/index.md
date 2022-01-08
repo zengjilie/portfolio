@@ -1,12 +1,12 @@
 ---
 
-title: "Spotify Clone 3 days Challenge"
+title: "Spotify Clone Challenge"
 description: "How I build a spotify clone in 3 days"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
 
 tags: [Next, Tailwind, Recoil, NextAuth]
-categories: [FrontEnd]
+categories: [Front-End]
 draft: false 
 
 images : [/posts/spotify-clone/spotify.png]
@@ -17,7 +17,7 @@ lightgallery : true
 
 <!--more-->
 
-## [Demon Video]( https://youtu.be/tM8pquJBciE)
+### [Demon Video]( https://youtu.be/tM8pquJBciE)
 
 ## Tech Stack
 **Front-End** - Next.js, React.js, Tailwind CSS,
@@ -38,6 +38,8 @@ lightgallery : true
 
 **|** Learn how Server-Side rendering works
 
+**|** Deploy website to Vercel and set environmental variables
+
 ## Takeaways 
 
 Compared to React.js, Next.js is so much more powerful, like it's born for full-stack!
@@ -47,6 +49,7 @@ Recoil is more sematically readable then Redux, probably ~~**never**~~ gonna use
 Next goal is to build a full-stack application using Next.js to learn how to use Next backend to manage database and maintain code
 
 
+NextAuth is based on Auth0, R
  
 
 
