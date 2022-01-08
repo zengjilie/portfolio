@@ -8,7 +8,7 @@ code:
 ---
 
 {{< style "max-width:500px" >}}
-![image](/about.jpeg)
+![image](/images/about.jpeg)
 {{< /style >}}
 
 ## What I'm doing
@@ -86,11 +86,11 @@ Product design, award 10,000 TWD
 ## Interests
 
 **Tech** 
-    -Config my Vim, Mechanical Keybaord
+    -Config my Vim, Mechanical Keyboard
 
 **Sports**
     -Table Tennic, Fitness
 
 **Music**
-    -Math Rock, Electric, Jazz fusion
+    -Math Rock, Electric, Jazz Fusion
 

@@ -15,6 +15,10 @@ theme = "LoveIt"
   dateFormat = "2006-01-02"
   images = ["/logo.png"] 
 
+[params.app]
+  title = "Alex"
+  svgFavicon = ""
+
 [params.search] 
   enable = true
   type ="algolia"
@@ -34,10 +38,14 @@ theme = "LoveIt"
   mobileMode = "auto"
   [params.header.title]
     logo = ""
-    name = "Alex's Portfolio"
+    name = "Alex's Blog"
 
 [params.footer]
   enable = true
+
+[params.section]
+  paginate = 20
+  dateFormat = "01-02"
 
 [params.home]
   [params.home.profile]
