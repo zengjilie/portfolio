@@ -12,7 +12,7 @@ draft: false
 
 images : [/posts/covid-kit/index.png]
 featuredImage: "/posts/covid-kit/index.png"
-featuredImagePreview: "/posts/covid-kit/index.png"
+featuredImagePreview: "/posts/covid-kit/index-preview.png"
 
 lightgallery : true
 ---
