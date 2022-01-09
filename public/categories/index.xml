@@ -1,0 +1,50 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Alex Zeng</title>
+        <link>http://example.org/categories/</link>
+        <description>Categories - Category - Alex Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Front-End</title>
+    <link>http://example.org/categories/front-end/</link>
+    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/front-end/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Mobile App</title>
+    <link>http://example.org/categories/mobile-app/</link>
+    <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/mobile-app/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Full-Stack</title>
+    <link>http://example.org/categories/full-stack/</link>
+    <pubDate>Mon, 03 Jan 2022 21:20:59 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/full-stack/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>AR</title>
+    <link>http://example.org/categories/ar/</link>
+    <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/ar/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Industrial Design</title>
+    <link>http://example.org/categories/industrial-design/</link>
+    <pubDate>Wed, 08 Jan 2020 18:01:10 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/industrial-design/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>UI/UX</title>
+    <link>http://example.org/categories/ui/ux/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/ui/ux/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
