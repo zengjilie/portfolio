@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wireframes - Tag - Alex Zeng</title>
+        <link>http://example.org/tags/wireframes/</link>
+        <description>Wireframes - Tag - Alex Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Tue, 08 Dec 2020 13:01:55 -0600</lastBuildDate><atom:link href="http://example.org/tags/wireframes/" rel="self" type="application/rss+xml" /><item>
+    <title>iRewards - UI/UX</title>
+    <link>http://example.org/posts/irewards/</link>
+    <pubDate>Tue, 08 Dec 2020 13:01:55 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/irewards/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/irewards/index.png" referrerpolicy="no-referrer">
+            </div>NTU Entrepreneurship Proejct, team of 5]]></description>
+</item><item>
+    <title>Bridge - UI/UX</title>
+    <link>http://example.org/posts/bridge/</link>
+    <pubDate>Sun, 08 Dec 2019 16:19:43 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/bridge/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/bridge/index.png" referrerpolicy="no-referrer">
+            </div>Service Design Proejct, team of 5]]></description>
+</item></channel>
+</rss>
