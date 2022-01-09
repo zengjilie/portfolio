@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>AR - Category - Alex Zeng</title>
-        <link>http://example.org/categories/ar/</link>
+        <link>https://zengjilie.com/categories/ar/</link>
         <description>AR - Category - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Sat, 08 Aug 2020 11:18:50 -0600</lastBuildDate><atom:link href="http://example.org/categories/ar/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Sat, 08 Aug 2020 11:18:50 -0600</lastBuildDate><atom:link href="https://zengjilie.com/categories/ar/" rel="self" type="application/rss+xml" /><item>
     <title>AR User Manual - UI/UX - AR</title>
-    <link>http://example.org/posts/ar-manual/</link>
+    <link>https://zengjilie.com/posts/ar-manual/</link>
     <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/ar-manual/</guid>
+    <guid>https://zengjilie.com/posts/ar-manual/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
             </div>How I build a AR user manual in 7 days]]></description>

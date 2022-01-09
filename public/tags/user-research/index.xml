@@ -1,24 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>User Research - Tag - Alex Zeng</title>
-        <link>http://example.org/tags/user-research/</link>
+        <link>https://zengjilie.com/tags/user-research/</link>
         <description>User Research - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Tue, 08 Dec 2020 13:01:55 -0600</lastBuildDate><atom:link href="http://example.org/tags/user-research/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Tue, 08 Dec 2020 13:01:55 -0600</lastBuildDate><atom:link href="https://zengjilie.com/tags/user-research/" rel="self" type="application/rss+xml" /><item>
     <title>iRewards - UI/UX</title>
-    <link>http://example.org/posts/irewards/</link>
+    <link>https://zengjilie.com/posts/irewards/</link>
     <pubDate>Tue, 08 Dec 2020 13:01:55 -0600</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/irewards/</guid>
+    <guid>https://zengjilie.com/posts/irewards/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/irewards/index.png" referrerpolicy="no-referrer">
             </div>NTU Entrepreneurship Proejct, team of 5]]></description>
 </item><item>
     <title>Bridge - UI/UX</title>
-    <link>http://example.org/posts/bridge/</link>
+    <link>https://zengjilie.com/posts/bridge/</link>
     <pubDate>Sun, 08 Dec 2019 16:19:43 -0600</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/bridge/</guid>
+    <guid>https://zengjilie.com/posts/bridge/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/bridge/index.png" referrerpolicy="no-referrer">
             </div>Service Design Proejct, team of 5]]></description>
