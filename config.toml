@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "Alex Zeng"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "LoveIt-1"
 
 [params]
   version = "0.2.X"
@@ -125,3 +125,7 @@ theme = "LoveIt"
   name = "Alex Zeng"
   email = "zengjiile@gmail.com"
   link = ""
+
+[outputs]
+  # LoveIt CHANGED | 0.2.0
+  home = ["HTML", "RSS", "JSON"]
