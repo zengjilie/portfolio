@@ -1,16 +1,12 @@
 ---
 title: ""
-draft: true
+draft: false
 
-fontawesone: true
 code:
     copy: true
 ---
 
-{{< style "max-width:500px" >}}
-![image](/images/about.jpeg)
-{{< /style >}}
-
+{{< image src="/images/about.png" width=1000 >}}
 ## What I'm doing
 Howdy! I'am Alex 👋
 

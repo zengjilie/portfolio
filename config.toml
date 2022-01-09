@@ -21,17 +21,13 @@ theme = "LoveIt"
 
 [params.search] 
   enable = true
-  type ="algolia"
-  contentlength = 40
+  type ="lunr"
+  contentlength = 4000
   placeholder = ""
   maxResoltLengthj = 10
   snippetLength = 30
   highlightTag = "em"
   absoluteURL = false
-  [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
 
 [params.header]
   desktopMode = "fixed"
