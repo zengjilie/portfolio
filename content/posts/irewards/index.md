@@ -78,7 +78,7 @@ Here is my favorite design part.
 
 I invited 3 tester to test this app. Here are the results.
 
-{{< image src="/posts/irewards/8-test.png" width=800 caption="`Usability Test`" >}}
+{{< image src="/posts/irewards/9-test.png" width=800 caption="`Usability Test`" >}}
 
 ## Takeaways
 
