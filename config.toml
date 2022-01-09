@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = 'en-us'
-title = "Jilie's Blog"
+title = "Alex Zeng"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -52,7 +52,7 @@ theme = "LoveIt"
     enable = true
     avatarURL = "https://avatars.githubusercontent.com/u/68725934?s=400&u=16cedd8ba469f8748ccdf8fea21e6fed5976d52c&v=4"
     title = "Alex Zeng"
-    subtitle = "Full-Stack Developer | UI/UX Deisgner "
+    subtitle = "Full-Stack Developer | UI/UX Designer"
     typeit = true
     social = true
   [params.home.posts]

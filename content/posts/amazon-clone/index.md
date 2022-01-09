@@ -1,6 +1,7 @@
 ---
-title: "Amazon Clone Challenge"
-date: 2022-01-07T21:20:59-06:00
+weight: 1
+title: "Amazon Clone Challenge - Full Stack"
+date: 2022-01-03T21:20:59-06:00
 description: "How I build an amazon clone in 7 days"
 draft: false
 author: "Alex"
@@ -9,16 +10,24 @@ tags: [React, CSS, Firebase, Axios, Material UI]
 categories: [Full-Stack]
 draft: false 
 
-images : [/posts/amazon-clone/amazon.png]
-featuredImage: "/posts/amazon-clone/amazon.png"
-featuredImagePreview: "posts/amazon-clone/amazon.png"
+images : [/posts/amazon-clone/index.png]
+featuredImage: "/posts/amazon-clone/index.png"
+featuredImagePreview: "/posts/amazon-clone/index.png"
 lightgallery : true
 ---
 
 
 <!--more-->
+**Duration** - 7 days
 
-### [Demon](https://challenge-d6ab9.web.app)
+**My Role** - Full-Stack Developer
+
+**My Team** - Myself
+
+### [Demon Site](https://challenge-d6ab9.web.app)
+
+## Problem
+I have been learning express.js and react.js for some time and I need to build a project to use both of them.
 
 ## Tech Stack
 **Front-End** - React.js, CSS, HTML
@@ -31,33 +40,33 @@ lightgallery : true
 
 ## Challenges
 
-**|** Use cloud computing platform firebase, and learn how to use their APIs  
+* Use cloud computing platform firebase, and learn how to use their APIs  
 
-**|** Handle CORS connection at backend 
+* Handle CORS connection at backend 
  
-**|** Manage user data using firebase
+* Manage user data using firebase
 
-**|** Learn how to use strip API to create payment method and track payments
+* Learn how to use strip API to create payment method and track payments
 
 ## Features 
 
-**|** User Registration
+### User Registration
 
 ![user register](/posts/amazon-clone/amazon_shot_1.gif)
 
-**|** Make Payments
+### Make Payments
 
 ![make payments](/posts/amazon-clone/amazon_shot_2.gif)
 
-**|** Tracking Orders
+### Tracking Orders
 
 ![tracking orders](/posts/amazon-clone/amazon_shot_3.gif)
 
 ## Takeaways 
 
-Firbase is a really powerful hosting platform
+* Firbase provides cloude database but uses NoSQL database
 
-Without using state management packages like Redux or Recoil, but only use useContext hook and useReducer hook also works   
+* Gonna try other hosting platform next time 
 
 
  

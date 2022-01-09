@@ -70,7 +70,7 @@ Transportation Design
 
 **Corning Future Innovator Competition, Merit Award**
 
-Product design, award 10,000 TWD
+Product Design (10,000 TWD)
 
 2018
 
@@ -78,7 +78,7 @@ Product design, award 10,000 TWD
 
 **Corning Future Innovator Competition, Merit Award**
 
-Product design, award 10,000 TWD
+Product Design (10,000 TWD)
 
 2017
 
@@ -91,5 +91,5 @@ Product design, award 10,000 TWD
     -Table Tennis, Fitness
 
 **Music**
-    -Math Rock, Electric, Jazz Fusion
+    -Math Rock, Electric, Jazz Fusion, J-Rock
 

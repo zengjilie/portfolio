@@ -1,6 +1,6 @@
 ---
-
-title: "Spotify Clone Challenge"
+weight: 3
+title: "Spotify Clone Challenge - Front End"
 description: "How I build a spotify clone in 3 days"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
@@ -9,15 +9,25 @@ tags: [Next, Tailwind, Recoil, NextAuth]
 categories: [Front-End]
 draft: false 
 
-images : [/posts/spotify-clone/spotify.png]
-featuredImage: "/posts/spotify-clone/spotify.jpeg"
-featuredImagePreview: "posts/spotify-clone/spotify.jpeg"
+images : [/posts/spotify-clone/index.png]
+featuredImage: "/posts/spotify-clone/index.png"
+featuredImagePreview: "/posts/spotify-clone/index.png"
 lightgallery : true
 ---
 
 <!--more-->
 
-### [Demon Video]( https://youtu.be/tM8pquJBciE)
+**Duration** - 3 day
+
+**My Role** - Front-End Developer
+
+**My Team** Myself
+
+### [Demon Video](https://youtu.be/tM8pquJBciE)
+
+## Problem
+
+Authorization is so popular in lots of applications. It's an important step to build a big social app project. So I want to learn this. I heard Next.js is a production-ready full-stack framework, so I want to learn that too.
 
 ## Tech Stack
 **Front-End** - Next.js, React.js, Tailwind CSS,
@@ -30,26 +40,18 @@ lightgallery : true
 
 ## Challenges
 
-**|** Use NextAuth.js to ask for user's authorization and perform user authentication
+* Use NextAuth.js to ask for user's authorization and perform user authentication
 
-**|** Use JWT in nextauth's callback functions to increase security
+* Use JWT in nextauth's callback functions to increase security
 
-**|** Learn how the Spotify Web Api works
+* Learn how the Spotify Web Api works
 
-**|** Learn how Server-Side rendering works
+* Learn how Server-Side rendering works
 
-**|** Deploy website to Vercel and set environmental variables
+* Deploy website to Vercel and set environmental variables
 
 ## Takeaways 
 
-Compared to React.js, Next.js is so much more powerful, like it's born for full-stack!
+* Next.js is so powerful, gonna use it to build a full-stack project next time 
 
-Recoil is more sematically readable then Redux, probably ~~**never**~~ gonna use Redux again, even thought they published Redux Tookit
-
-Next goal is to build a full-stack application using Next.js to learn how to use Next backend to manage database and maintain code
-
-
-NextAuth is based on Auth0, R
- 
-
-
+* Recoil is sematically more readable then Redux, probably ~~**never**~~ gonna use Redux again

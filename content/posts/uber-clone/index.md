@@ -1,5 +1,6 @@
 ---
-title: "Uber Clone Challenge"
+weight: 2
+title: "Uber Clone Challenge - Mobile App"
 description: "How I build a uber clone in 3 days"
 date: 2022-01-07T13:44:16-06:00
 draft: false
@@ -19,6 +20,16 @@ lightgallery : true
 
 <!--more-->
 
+**Duration** - 3 day
+
+**My Role** - Mobile Developer
+
+**My Team** Myself
+
+## Problem
+
+I have a mobile application developed using WeChat Mini Program but it's not common in the US. React Native is right now the most popular framework for developing mobile apps. So I want to use react native to build a small mobile application, see how it works.
+
 ## Tech Stack
 **Front-End** - React Native, Tailwind CSS,
 
@@ -27,27 +38,28 @@ lightgallery : true
 **State Management** - Redux Tookit
 
 ## Features
-**|** Search Autocompletion
+### Search Autocompletion
 
 ![search](/posts/uber-clone/search.gif)
 
-**|** Show Directions
+### Show Directions
 
 ![direction](/posts/uber-clone/direction.gif)
 
-**|** Fee Calculation
+### Fee Calculation
 
 ![fee](/posts/uber-clone/fee.gif)
 
 
 ## Challenges
 
-**|** Learn how the Google Map Api works
+* Learn how the Google Map Api works
 
-**|** Get familar with Tailwind CSS (I love it!)
+* Get familar with Tailwind CSS (I love it!)
 
 
 ## Takeaways 
 
-React Native is so good for fast development, and it's user experience is almost equivalent to native applicaitons
+* React Native is very easy to learn if you're already familiar with React.
+* The performance of React Native is so must better then WeChat Mini Programs. 
 
