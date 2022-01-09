@@ -1,6 +1,6 @@
 ---
 title: "iRewards - UI/UX"
-subtitle: "NTU Entrepreneurship Proejct. It's called 卡伯 in Taiwan"
+subtitle: "NTU Entrepreneurship Project. It's called 卡伯 in Taiwan"
 description: "NTU Entrepreneurship Proejct, team of 5"
 date: 2020-12-08T13:01:55-06:00
 draft: false
@@ -28,7 +28,7 @@ lightgallery : true
 ### [Our Team](https://cep.ntu.edu.tw/2019/12/30/cep12th-carbo/)
 
 {{< admonition tip "Disclaimer" true>}}
-**iRewards** is my latter redesigned version of Cardbo(卡伯), which uses the same research results, not the published version you see right now. Our beta version was... too shabby
+**iRewards** is my latter redesigned version of Cardbo(卡伯), which uses the same research results, not the published version on Line. Our beta version was... too shabby
 {{< /admonition >}}
 
 ## Problem 

@@ -28,13 +28,13 @@ lightgallery : true
 
 In this project, I chose the user manual as my design subject. First, I did a simple field study to find common problems people encounter when using user manuals. Based on these qualitative data, I listed some hypothetical design goals to help me build a general direction for my later user research.
 
-{{< image src="/posts/ar-manual/1-problem.png" width=800 caption="`Hypothesis`" >}}
+{{< image src="/posts/ar-manual/1-problem.png" width=800 caption="`Problem`" >}}
 
 ## User Research
 
 To get a comprehensive understanding of manual users, I designed a survey and published it on a survey site. A total of 102 replies were collected, of which 100 were valid. Here are some key findings.
 
-{{< image src="/posts/ar-manual/2-stats.png" width=700 caption="`Findings`" >}}
+{{< image src="/posts/ar-manual/2-stats.png" width=700 caption="`User Research`" >}}
 
 ## Ideation
 
