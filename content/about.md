@@ -6,7 +6,10 @@ code:
     copy: true
 ---
 
-{{< image src="/images/about.png" width=1000 >}}
+{{< style "img{width:700px}" >}}
+![image](/images/about.png)
+{{< /style >}}
+
 ## What I'm doing
 Howdy! I'am Alex 👋
 
