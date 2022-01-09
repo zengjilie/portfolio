@@ -1,78 +1,78 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Alex Zeng</title>
-        <link>https://zengjilie.com/tags/</link>
+        <link>https://zengjilie.netlify.app/tags/</link>
         <description>Tags - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.com/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/" rel="self" type="application/rss+xml" /><item>
     <title>React</title>
-    <link>https://zengjilie.com/tags/react/</link>
+    <link>https://zengjilie.netlify.app/tags/react/</link>
     <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/react/</guid>
+    <guid>https://zengjilie.netlify.app/tags/react/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Tailwind</title>
-    <link>https://zengjilie.com/tags/tailwind/</link>
+    <link>https://zengjilie.netlify.app/tags/tailwind/</link>
     <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/tailwind/</guid>
+    <guid>https://zengjilie.netlify.app/tags/tailwind/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Google Maps</title>
-    <link>https://zengjilie.com/tags/google-maps/</link>
+    <link>https://zengjilie.netlify.app/tags/google-maps/</link>
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/google-maps/</guid>
+    <guid>https://zengjilie.netlify.app/tags/google-maps/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>React Native</title>
-    <link>https://zengjilie.com/tags/react-native/</link>
+    <link>https://zengjilie.netlify.app/tags/react-native/</link>
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/react-native/</guid>
+    <guid>https://zengjilie.netlify.app/tags/react-native/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Redux</title>
-    <link>https://zengjilie.com/tags/redux/</link>
+    <link>https://zengjilie.netlify.app/tags/redux/</link>
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/redux/</guid>
+    <guid>https://zengjilie.netlify.app/tags/redux/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Next</title>
-    <link>https://zengjilie.com/tags/next/</link>
+    <link>https://zengjilie.netlify.app/tags/next/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/next/</guid>
+    <guid>https://zengjilie.netlify.app/tags/next/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>NextAuth</title>
-    <link>https://zengjilie.com/tags/nextauth/</link>
+    <link>https://zengjilie.netlify.app/tags/nextauth/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/nextauth/</guid>
+    <guid>https://zengjilie.netlify.app/tags/nextauth/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Recoil</title>
-    <link>https://zengjilie.com/tags/recoil/</link>
+    <link>https://zengjilie.netlify.app/tags/recoil/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/recoil/</guid>
+    <guid>https://zengjilie.netlify.app/tags/recoil/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Axios</title>
-    <link>https://zengjilie.com/tags/axios/</link>
+    <link>https://zengjilie.netlify.app/tags/axios/</link>
     <pubDate>Mon, 03 Jan 2022 21:20:59 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/axios/</guid>
+    <guid>https://zengjilie.netlify.app/tags/axios/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>CSS</title>
-    <link>https://zengjilie.com/tags/css/</link>
+    <link>https://zengjilie.netlify.app/tags/css/</link>
     <pubDate>Mon, 03 Jan 2022 21:20:59 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/tags/css/</guid>
+    <guid>https://zengjilie.netlify.app/tags/css/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

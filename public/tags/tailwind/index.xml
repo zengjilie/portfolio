@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tailwind - Tag - Alex Zeng</title>
-        <link>https://zengjilie.com/tags/tailwind/</link>
+        <link>https://zengjilie.netlify.app/tags/tailwind/</link>
         <description>Tailwind - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.com/tags/tailwind/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/tailwind/" rel="self" type="application/rss+xml" /><item>
     <title>Uber Clone Challenge - Mobile App</title>
-    <link>https://zengjilie.com/posts/uber-clone/</link>
+    <link>https://zengjilie.netlify.app/posts/uber-clone/</link>
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/posts/uber-clone/</guid>
+    <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
             </div>How I build a uber clone in 3 days]]></description>
 </item><item>
     <title>Spotify Clone Challenge - Front End</title>
-    <link>https://zengjilie.com/posts/spotify-clone/</link>
+    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/posts/spotify-clone/</guid>
+    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
             </div>How I build a spotify clone in 3 days]]></description>
 </item><item>
     <title>Resume - Front End</title>
-    <link>https://zengjilie.com/posts/resume/</link>
+    <link>https://zengjilie.netlify.app/posts/resume/</link>
     <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/posts/resume/</guid>
+    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
             </div>How I build a resume in 1 day]]></description>

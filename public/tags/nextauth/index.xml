@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>NextAuth - Tag - Alex Zeng</title>
-        <link>https://zengjilie.com/tags/nextauth/</link>
+        <link>https://zengjilie.netlify.app/tags/nextauth/</link>
         <description>NextAuth - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Thu, 06 Jan 2022 21:16:51 -0600</lastBuildDate><atom:link href="https://zengjilie.com/tags/nextauth/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Thu, 06 Jan 2022 21:16:51 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/nextauth/" rel="self" type="application/rss+xml" /><item>
     <title>Spotify Clone Challenge - Front End</title>
-    <link>https://zengjilie.com/posts/spotify-clone/</link>
+    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.com/posts/spotify-clone/</guid>
+    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
             </div>How I build a spotify clone in 3 days]]></description>
