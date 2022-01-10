@@ -79,7 +79,7 @@ I developed this project using WeChat Min Program SDK. I also used a Python craw
 
 ## Takeaways
 
-* There is are some differences between development and design. Designers and developers should have a basic understanding of each other’s work to collaborate seamlessly.
+* There are some differences between development and design. Designers and developers should have a basic understanding of each other’s work to collaborate seamlessly.
 
 * Optimization is very important when fetching and rendering huge datasets.
 
