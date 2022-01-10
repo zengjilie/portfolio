@@ -1,12 +1,13 @@
 ---
+weight : 2
 title: "AR User Manual - UI/UX - AR"
 description: "How I build a AR user manual in 7 days"
 date: 2020-08-08T11:18:50-06:00
 draft: false
 author: "Alex"
 
-tags: [UI/UX, Vuforia, Unity]
-categories: [UI/UX, AR]
+tags: [Vuforia, Unity, UI/UX]
+categories: [AR, UI/UX]
 draft: false 
 
 images : [/posts/ar-manual/index.png]

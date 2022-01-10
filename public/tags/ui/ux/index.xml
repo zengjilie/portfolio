@@ -5,6 +5,15 @@
         <description>UI/UX - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
             <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><atom:link href="https://zengjilie.netlify.app/tags/ui/ux/" rel="self" type="application/rss+xml" /><item>
+    <title>AR User Manual - UI/UX - AR</title>
+    <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
+    <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ar-manual/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
+            </div>How I build a AR user manual in 7 days]]></description>
+</item><item>
     <title>Covid Kit - UI/UX - Full Stack</title>
     <link>https://zengjilie.netlify.app/posts/covid-kit/</link>
     <pubDate>Tue, 07 Jul 2020 23:06:21 -0600</pubDate>
@@ -22,15 +31,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/irewards/index.png" referrerpolicy="no-referrer">
             </div>NTU Entrepreneurship Proejct, team of 5]]></description>
-</item><item>
-    <title>AR User Manual - UI/UX - AR</title>
-    <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
-    <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/ar-manual/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
-            </div>How I build a AR user manual in 7 days]]></description>
 </item><item>
     <title>Bridge - UI/UX</title>
     <link>https://zengjilie.netlify.app/posts/bridge/</link>
