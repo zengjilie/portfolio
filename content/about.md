@@ -13,7 +13,7 @@ code:
 ## What I'm doing
 Howdy! I'am Alex 👋
 
-After learning how to design products for 4 years, I decided to change my career to software development because I want to make my design come true. The ability to build a product, let people use it, and solve their problems gives me so much more fulfillment than anything else. Now I have been coding for 2 years. If you ask me what I learned from this journey, that is "keep pushing, and never settle"! 💻
+After learning how to design products for 4 years, I decided to change my career to software development because I want to make my design come true. The ability to build a product, let people use it, and solve people's problems gives me so much more fulfillment than anything else. Now I have been coding for 2 years. If you ask me what I learned from this journey, that is "keep pushing, and never settle"! 💻
 
 ## Tech I use 
 
