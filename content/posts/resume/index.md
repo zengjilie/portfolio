@@ -1,4 +1,5 @@
 ---
+weight: 3
 title: "Resume - Front End"
 description: "How I build a resume in 1 day"
 date: 2022-01-07T22:42:36-06:00

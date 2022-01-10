@@ -5,15 +5,6 @@
         <description>Front-End - Category - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
             <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/front-end/" rel="self" type="application/rss+xml" /><item>
-    <title>Spotify Clone Challenge - Front End</title>
-    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
-    <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
-            </div>How I build a spotify clone in 3 days]]></description>
-</item><item>
     <title>Resume - Front End</title>
     <link>https://zengjilie.netlify.app/posts/resume/</link>
     <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
@@ -22,5 +13,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
             </div>How I build a resume in 1 day]]></description>
+</item><item>
+    <title>Spotify Clone Challenge - Front End</title>
+    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
+    <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
+            </div>How I build a spotify clone in 3 days]]></description>
 </item></channel>
 </rss>
