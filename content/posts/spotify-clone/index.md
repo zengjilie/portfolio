@@ -25,7 +25,7 @@ lightgallery : true
 
 ### [Demon Video](https://youtu.be/tM8pquJBciE)
 
-## Problem
+## Motivation
 
 Authorization is so popular in lots of applications. It's an important step to build a big social app project. So I want to learn this. I heard Next.js is a production-ready full-stack framework, so I want to learn that too.
 

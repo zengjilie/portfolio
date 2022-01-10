@@ -26,7 +26,7 @@ lightgallery : true
 
 ### [Demon Site](https://challenge-d6ab9.web.app)
 
-## Problem
+## Motivation
 I have been learning express.js and react.js for some time and I need to build a project to use both of them.
 
 ## Tech Stack

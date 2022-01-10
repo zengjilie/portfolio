@@ -26,7 +26,7 @@ lightgallery : true
 
 **My Team** Myself
 
-## Problem
+## Motivation
 
 I have a mobile application developed using WeChat Mini Program but it's not common in the US. React Native is right now the most popular framework for developing mobile apps. So I want to use react native to build a small mobile application, see how it works.
 

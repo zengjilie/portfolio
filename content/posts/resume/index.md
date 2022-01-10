@@ -27,7 +27,7 @@ lightgallery : true
 
 ### [Demon Site](https://zengjilie.github.io/resume/)
 
-## Problem
+## Motivation
 I found that everybody's resume looks the same, so I want to do something different.
 
 ## Tech Stack
