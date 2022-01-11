@@ -55,7 +55,7 @@ Master of Science in Information Science
 
 Bachelor of Design in Industrial Design
 
-2016 - 2022
+2016 - 2020
 
 ## Awards
 **KYMCO Motorcycle Design Competition, Finalist**
