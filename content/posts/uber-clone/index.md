@@ -35,7 +35,7 @@ I have a mobile application developed using WeChat Mini Program but it's not com
 
 **Api** - Google Maps API,(Places API, Distance Matrix API, Directions API)
 
-**State Management** - Redux Tookit
+**State Management** - Redux Toolkit
 
 ## Features
 ### Search Autocompletion
