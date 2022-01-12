@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Amazon Clone Challenge - Full Stack"
+title: "Amazon Dummy Project- Full Stack"
 date: 2022-01-03T21:20:59-06:00
 description: "How I build an amazon clone in 7 days"
 draft: false

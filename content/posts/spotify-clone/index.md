@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Spotify Clone Challenge - Front End"
+title: "Spotify Dummy Project- Front End"
 description: "How I build a spotify clone in 3 days"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
