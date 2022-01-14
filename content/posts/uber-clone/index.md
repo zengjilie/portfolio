@@ -20,7 +20,7 @@ lightgallery : true
 
 <!--more-->
 
-**Duration** - 3 day
+**Duration** - 3 days
 
 **My Role** - Mobile Developer
 

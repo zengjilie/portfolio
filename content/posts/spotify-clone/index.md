@@ -8,7 +8,7 @@ author: "Alex"
 tags: [Next, React, Tailwind, Recoil, NextAuth]
 categories: [Front-End]
 draft: false 
-
+    
 images : [/posts/spotify-clone/index.png]
 featuredImage: "/posts/spotify-clone/index.png"
 featuredImagePreview: "/posts/spotify-clone/index.png"
@@ -17,7 +17,7 @@ lightgallery : true
 
 <!--more-->
 
-**Duration** - 3 day
+**Duration** - 3 days
 
 **My Role** - Front-End Developer
 
