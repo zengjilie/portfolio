@@ -4,7 +4,14 @@
         <link>https://zengjilie.netlify.app/categories/</link>
         <description>Categories - Category - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Mon, 17 Jan 2022 23:44:51 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Full-Stack</title>
+    <link>https://zengjilie.netlify.app/categories/full-stack/</link>
+    <pubDate>Mon, 17 Jan 2022 23:44:51 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/categories/full-stack/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Front-End</title>
     <link>https://zengjilie.netlify.app/categories/front-end/</link>
     <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
@@ -17,13 +24,6 @@
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
     <guid>https://zengjilie.netlify.app/categories/mobile-app/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Full-Stack</title>
-    <link>https://zengjilie.netlify.app/categories/full-stack/</link>
-    <pubDate>Mon, 03 Jan 2022 21:20:59 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/categories/full-stack/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>AR</title>

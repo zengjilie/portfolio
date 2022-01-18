@@ -4,8 +4,17 @@
         <link>https://zengjilie.netlify.app/tags/react/</link>
         <description>React - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/react/" rel="self" type="application/rss+xml" /><item>
-    <title>Amazon Dummy Project- Full Stack</title>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Mon, 17 Jan 2022 23:44:51 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/react/" rel="self" type="application/rss+xml" /><item>
+    <title>Blog/XYZ - Full Stack</title>
+    <link>https://zengjilie.netlify.app/posts/blogfullstack/</link>
+    <pubDate>Mon, 17 Jan 2022 23:44:51 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/blogfullstack/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/blogfullstack/index.png" referrerpolicy="no-referrer">
+            </div>How I build an fullstack website in 5 days]]></description>
+</item><item>
+    <title>Amazon Dummy Project - Full Stack</title>
     <link>https://zengjilie.netlify.app/posts/amazon-clone/</link>
     <pubDate>Mon, 03 Jan 2022 21:20:59 -0600</pubDate>
     <author>Author</author>
@@ -23,7 +32,7 @@
                 <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
             </div>How I build a resume in 1 day]]></description>
 </item><item>
-    <title>Spotify Dummy Project- Front End</title>
+    <title>Spotify Dummy Project - Front End</title>
     <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
     <author>Author</author>

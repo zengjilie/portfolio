@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Uber Dummy Project- Mobile App"
+title: "Uber Dummy Project - Mobile App"
 description: "How I build a uber clone in 3 days"
 date: 2022-01-07T13:44:16-06:00
 draft: false
