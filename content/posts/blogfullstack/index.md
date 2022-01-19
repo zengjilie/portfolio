@@ -81,6 +81,6 @@ lightgallery : true
 * Always draw out the structure of products first before starting to develop it. 
 * Encrypt sensitive information is very important, I used **bcrypt** this time, next time use JWT.
 * While waiting for data fetch, frontend should display a **pending status** to indicate the time.
-* More familiar with HTTP status code.
-* Learned how to deploy projects to Heroku.
-* Learned how AWS S3, IAM works.
+* More familiar with **HTTP** status code.
+* Learned how to deploy projects to **Heroku**.
+* Learned how **AWS** S3, IAM works.
