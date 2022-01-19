@@ -3,10 +3,10 @@ weight: 1
 title: "Blog/XYZ - Full Stack"
 description: "How I build an fullstack website in 5 days"
 date: 2022-01-17T23:44:51-06:00
-draft: false
+draft: false 
 author: "Alex"
 
-tags: [React, Express, MongoDB, Netlify, Heroku]
+tags: [React, Express, MongoDB, Netlify, Heroku, AWS]
 categories: [Full Stack]
 draft: false 
 
@@ -31,7 +31,7 @@ lightgallery : true
 
 **Back-End** - Node.js, Express.js. MongoDB,
 
-**Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database)
+**Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS s3 (Images)
 
 **Dependencies** - axios, multer, bcrypt, cors, dotenv, mongoose
 
@@ -48,7 +48,7 @@ lightgallery : true
 * Upload files inside a form, use multer to store files inside diskstorage.
 * Use web local Storage to store user info.
 * Fix bugs when connecting mongoDB Atlas with Heroku.
-
+* Learn how to use AWS s3 to store image files, cause Heroku doesn't allow store files.
 ## Features
 ### User Login / Registration
 {{< image src="./auth.gif" caption="`Authentication`">}}
@@ -71,6 +71,9 @@ lightgallery : true
 ### Write Post
 {{< image src="./write.gif" caption="`Write Post`">}}
 
+### Store Image
+{{< image src="./aws.png" caption="`AWS S3`">}}
+
 
 ## Takeaways
 * When developing, set MongoDB **Network Access** to your IP address, when deploying, set it to **anywhere** or your server IP address.
@@ -80,3 +83,4 @@ lightgallery : true
 * While waiting for data fetch, frontend should display a **pending status** to indicate the time.
 * More familiar with HTTP status code.
 * Learned how to deploy projects to Heroku.
+* Learned how AWS S3, IAM works.

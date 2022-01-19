@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/zengjilie.netlify.app\/posts\/blogfullstack\/"
-        },"genre": "posts","keywords": "React, Express, MongoDB, Netlify, Heroku","wordcount":  315 ,
+        },"genre": "posts","keywords": "React, Express, MongoDB, Netlify, Heroku, AWS","wordcount":  346 ,
         "url": "https:\/\/zengjilie.netlify.app\/posts\/blogfullstack\/","datePublished": "2022-01-17T23:44:51-06:00","dateModified": "2022-01-17T23:44:51-06:00","publisher": {
             "@type": "Organization",
             "name": "Alex"},"author": {
@@ -106,7 +106,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Blog/XYZ - Full Stack</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Alex</a></span>&nbsp;<span class="post-category">included in <a href="/categories/full-stack/"><i class="far fa-folder fa-fw"></i>Full-Stack</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-01-17">2022-01-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;315 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-01-17">2022-01-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;346 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
@@ -139,6 +139,7 @@
         <li><a href="#fetch-posts-belong-to-a-user--category">Fetch Posts belong to a User / Category</a></li>
         <li><a href="#responsive-website">Responsive Website</a></li>
         <li><a href="#write-post">Write Post</a></li>
+        <li><a href="#store-image">Store Image</a></li>
       </ul>
     </li>
     <li><a href="#takeaways">Takeaways</a></li>
@@ -151,7 +152,7 @@
 <h2 id="tech-stack">Tech Stack</h2>
 <p><strong>Front-End</strong> - React.js, CSS, HTML</p>
 <p><strong>Back-End</strong> - Node.js, Express.js. MongoDB,</p>
-<p><strong>Deploy</strong> - Netlify (frontend), Heroku (backend), MongoDB Atlas (database)</p>
+<p><strong>Deploy</strong> - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS s3 (Images)</p>
 <p><strong>Dependencies</strong> - axios, multer, bcrypt, cors, dotenv, mongoose</p>
 <h2 id="motivation">Motivation</h2>
 <ul>
@@ -168,6 +169,7 @@
 <li>Upload files inside a form, use multer to store files inside diskstorage.</li>
 <li>Use web local Storage to store user info.</li>
 <li>Fix bugs when connecting mongoDB Atlas with Heroku.</li>
+<li>Learn how to use AWS s3 to store image files, cause Heroku doesn&rsquo;t allow store files.</li>
 </ul>
 <h2 id="features">Features</h2>
 <h3 id="user-login--registration">User Login / Registration</h3>
@@ -247,6 +249,17 @@
             alt="./write.gif" />
     </a><figcaption class="image-caption"><code>Write Post</code></figcaption>
     </figure>
+<h3 id="store-image">Store Image</h3>
+<figure><a class="lightgallery" href="./aws.png" title="./aws.png" data-thumbnail="./aws.png" data-sub-html="<h2>AWS S3</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="./aws.png"
+            data-srcset="./aws.png, ./aws.png 1.5x, ./aws.png 2x"
+            data-sizes="auto"
+            alt="./aws.png" />
+    </a><figcaption class="image-caption"><code>AWS S3</code></figcaption>
+    </figure>
 <h2 id="takeaways">Takeaways</h2>
 <ul>
 <li>When developing, set MongoDB <strong>Network Access</strong> to your IP address, when deploying, set it to <strong>anywhere</strong> or your server IP address.</li>
@@ -256,6 +269,7 @@
 <li>While waiting for data fetch, frontend should display a <strong>pending status</strong> to indicate the time.</li>
 <li>More familiar with HTTP status code.</li>
 <li>Learned how to deploy projects to Heroku.</li>
+<li>Learned how AWS S3, IAM works.</li>
 </ul></div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
@@ -267,13 +281,13 @@
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-via="AlexTse13172461" data-hashtags="React,Express,MongoDB,Netlify,Heroku"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-hashtag="React"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://zengjilie.netlify.app/posts/blogfullstack/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-image="/posts/blogfullstack/index.png"><i class="fab fa-weibo fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-via="AlexTse13172461" data-hashtags="React,Express,MongoDB,Netlify,Heroku,AWS"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-hashtag="React"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://zengjilie.netlify.app/posts/blogfullstack/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-image="/posts/blogfullstack/index.png"><i class="fab fa-weibo fa-fw"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/react/">React</a>,&nbsp;<a href="/tags/express/">Express</a>,&nbsp;<a href="/tags/mongodb/">MongoDB</a>,&nbsp;<a href="/tags/netlify/">Netlify</a>,&nbsp;<a href="/tags/heroku/">Heroku</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/react/">React</a>,&nbsp;<a href="/tags/express/">Express</a>,&nbsp;<a href="/tags/mongodb/">MongoDB</a>,&nbsp;<a href="/tags/netlify/">Netlify</a>,&nbsp;<a href="/tags/heroku/">Heroku</a>,&nbsp;<a href="/tags/aws/">AWS</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
