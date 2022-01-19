@@ -51,7 +51,7 @@ Master of Science in Information Science
 
 |
 
-**National Taiwawn University of Science and Technology**
+**National Taiwan University of Science and Technology**
 
 Bachelor of Design in Industrial Design
 
