@@ -31,7 +31,7 @@ lightgallery : true
 
 **Back-End** - Node.js, Express.js. MongoDB,
 
-**Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS s3 (Images)
+**Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS S3 (Images)
 
 **Dependencies** - axios, multer, bcrypt, cors, dotenv, mongoose
 
