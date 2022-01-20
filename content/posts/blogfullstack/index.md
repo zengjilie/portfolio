@@ -37,7 +37,7 @@ lightgallery : true
 
 ## Motivation
 * I want to build a project from scratch. From desgining database schemas and APIs to handling http request and responsive pages. I want to have a full grasp of how a website actually works. 
-* As an engineer, I know sooner or later I will encounter challenges from both fronend and backend, why not now.
+* As an engineer, I know sooner or later I will encounter challenges from both frontend and backend, why not now.
 
 ## Challenges
 * Design APIs, manage different routers and endpoints inside Express.
