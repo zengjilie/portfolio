@@ -62,11 +62,8 @@ theme = "LoveIt-1"
 [params.social]
   Github = "zengjilie"
   Linkedin = "jilie-zeng-480857200"
-  Twitter = "AlexTse13172461"
-  Instagram = "zengjilie"
-  Facebook = "100013466703480"
-  Zhihu = "alex-tseng-5"
   Email = "zengjilie@utexas.edu"
+  RSS = true 
 
 [params.page]
   [params.page.share] 
