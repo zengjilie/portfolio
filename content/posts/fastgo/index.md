@@ -12,8 +12,8 @@ categories: [Industrial Design]
 draft: false 
 
 images : [/posts/fastgo/index.png]
-featuredImage: "/posts/fastgo/index-2.png"
-featuredImagePreview: "/posts/fastgo/index-preview.png"
+featuredImage: "/posts/fastgo/index.png"
+featuredImagePreview: "/posts/fastgo/index.png"
 
 lightgallery : true
 ---
