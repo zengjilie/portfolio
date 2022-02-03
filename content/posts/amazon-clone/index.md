@@ -6,7 +6,7 @@ description: "How I build an amazon clone in 7 days"
 draft: false
 author: "Alex"
 
-tags: [React, CSS, Firebase, Axios, Express]
+tags: [React, CSS, Firebase, Express, Stripe]
 categories: [Full-Stack]
 draft: false 
 
