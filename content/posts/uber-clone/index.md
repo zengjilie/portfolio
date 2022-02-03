@@ -1,8 +1,8 @@
 ---
 weight: 2
 title: "Uber Dummy Project - Mobile App"
-description: "uber clone"
-date: 2022-01-07T13:44:16-06:00
+description: "Uber clone"
+Date: 2022-01-07T13:44:16-06:00
 draft: false
 
 author: "Alex"
