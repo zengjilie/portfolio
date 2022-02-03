@@ -1,8 +1,8 @@
 ---
 weight: 1
-title: "Amazon Dummy Project - Full Stack"
+title: "Ecommerce website- Full Stack"
 date: 2022-01-03T21:20:59-06:00
-description: "How I build an amazon clone in 7 days"
+description: "Amazon clone"
 draft: false
 author: "Alex"
 
