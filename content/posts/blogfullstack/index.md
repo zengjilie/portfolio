@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Blog/XYZ - Full Stack"
-description: "How I build an fullstack website in 5 days"
+description: "How I built a fullstack website in 5 days"
 date: 2022-01-17T23:44:51-06:00
 draft: false 
 author: "Alex"
