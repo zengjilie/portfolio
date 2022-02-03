@@ -1,7 +1,6 @@
 ---
-weight: 3
 title: "Resume - Front End"
-description: "How I build a resume in 1 day"
+description: "Personal resume"
 date: 2022-01-07T22:42:36-06:00
 draft: true
 author: "Alex"

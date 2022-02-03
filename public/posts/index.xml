@@ -30,16 +30,7 @@
     <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
-            </div>How I build an uber clone in 3 days]]></description>
-</item><item>
-    <title>Resume - Front End</title>
-    <link>https://zengjilie.netlify.app/posts/resume/</link>
-    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
-            </div>How I build a resume in 1 day]]></description>
+            </div>uber clone]]></description>
 </item><item>
     <title>Spotify Dummy Project - Front End</title>
     <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
@@ -48,7 +39,7 @@
     <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
-            </div>How I build a spotify clone in 3 days]]></description>
+            </div>Spotify clone]]></description>
 </item><item>
     <title>AR User Manual - UI/UX - AR</title>
     <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
@@ -57,7 +48,16 @@
     <guid>https://zengjilie.netlify.app/posts/ar-manual/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
-            </div>How I build an AR user manual in 7 days]]></description>
+            </div>How I built an AR user manual in 7 days]]></description>
+</item><item>
+    <title>Resume - Front End</title>
+    <link>https://zengjilie.netlify.app/posts/resume/</link>
+    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
+            </div>Personal resume]]></description>
 </item><item>
     <title>Covid Kit - UI/UX - Full Stack</title>
     <link>https://zengjilie.netlify.app/posts/covid-kit/</link>

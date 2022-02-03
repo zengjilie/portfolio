@@ -1,11 +1,11 @@
 ---
 weight: 3
 title: "Spotify Dummy Project - Front End"
-description: "How I build a spotify clone in 3 days"
+description: "Spotify clone"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
 
-tags: [Next, React, Tailwind, Recoil, NextAuth]
+tags: [Next, React, Tailwind CSS, Recoil, NextAuth]
 categories: [Front-End]
 draft: false 
     

@@ -12,7 +12,7 @@
     <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
-            </div>How I build an uber clone in 3 days]]></description>
+            </div>uber clone]]></description>
 </item><item>
     <title>Resume - Front End</title>
     <link>https://zengjilie.netlify.app/posts/resume/</link>
@@ -21,15 +21,6 @@
     <guid>https://zengjilie.netlify.app/posts/resume/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
-            </div>How I build a resume in 1 day]]></description>
-</item><item>
-    <title>Spotify Dummy Project - Front End</title>
-    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
-    <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
-            </div>How I build a spotify clone in 3 days]]></description>
+            </div>Personal resume]]></description>
 </item></channel>
 </rss>
