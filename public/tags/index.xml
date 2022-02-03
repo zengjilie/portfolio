@@ -40,6 +40,13 @@
     <guid>https://zengjilie.netlify.app/tags/netlify/</guid>
     <description><![CDATA[]]></description>
 </item><item>
+    <title>Node</title>
+    <link>https://zengjilie.netlify.app/tags/node/</link>
+    <pubDate>Mon, 17 Jan 2022 23:44:51 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/tags/node/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>React</title>
     <link>https://zengjilie.netlify.app/tags/react/</link>
     <pubDate>Mon, 17 Jan 2022 23:44:51 -0600</pubDate>
@@ -66,13 +73,6 @@
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
     <author>Author</author>
     <guid>https://zengjilie.netlify.app/tags/react-native/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Redux</title>
-    <link>https://zengjilie.netlify.app/tags/redux/</link>
-    <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/tags/redux/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

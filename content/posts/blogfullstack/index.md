@@ -6,7 +6,7 @@ date: 2022-01-17T23:44:51-06:00
 draft: false 
 author: "Alex"
 
-tags: [React, Express, MongoDB, Netlify, Heroku, AWS]
+tags: [React, Node, Express, MongoDB, Netlify, Heroku, AWS]
 categories: [Full Stack]
 draft: false 
 
