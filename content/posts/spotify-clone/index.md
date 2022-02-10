@@ -5,7 +5,7 @@ description: "Spotify clone"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
 
-tags: [Next, React, Tailwind CSS, Recoil, NextAuth]
+tags: [NextJS, ReactJS, Tailwind CSS, RecoilJS, NextAuthJSJ]
 categories: [Front-End]
 draft: false 
     
@@ -19,26 +19,24 @@ lightgallery : true
 
 **Duration** - 3 days
 
-**My Role** - Front-End Developer
-
-**My Team** Myself
+**My Role** - Front End Developer
 
 ### [Demon Video](https://youtu.be/tM8pquJBciE)
+### [Repo](https://github.com/zengjilie/spotify-clone)
+<!-- ## Motivation
 
-## Motivation
-
-Authorization is so popular in lots of applications. It's an important step to build a big social app project. So I want to learn this. I heard Next.js is a production-ready full-stack framework, so I want to learn that too.
+Authorization is so popular in lots of applications. It's an important step to build a big social app project. So I want to learn this. I heard Next.js is a production-ready full-stack framework, so I want to learn that too. -->
 
 ## Tech Stack
-**Front-End** - Next.js, React.js, Tailwind CSS,
+**Front-End** - NextJS, ReactJS, Tailwind CSS,
 
-**Authentication** - NextAuth.js
+**Authentication** - NextAuthJS
 
 **Api** - Spotify Web Api
 
-**State Management** - Recoil.js
+**State Management** - RecoilJS
 
-## Challenges
+<!-- ## Challenges
 
 * Use NextAuth.js to ask for user's authorization and perform user authentication
 
@@ -48,10 +46,10 @@ Authorization is so popular in lots of applications. It's an important step to b
 
 * Learn how Server-Side rendering works
 
-* Deploy website to Vercel and set environmental variables
+* Deploy website to Vercel and set environmental variables -->
 
-## Takeaways 
+<!-- ## Takeaways 
 
 * Next.js is so powerful, gonna use it to build a full-stack project next time 
 
-* Recoil is sematically more readable then Redux, probably ~~**never**~~ gonna use Redux again
+* Recoil is sematically more readable then Redux, probably ~~**never**~~ gonna use Redux again -->

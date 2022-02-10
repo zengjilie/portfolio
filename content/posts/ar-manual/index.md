@@ -6,7 +6,7 @@ date: 2020-08-08T11:18:50-06:00
 draft: false
 author: "Alex"
 
-tags: [Vuforia, Unity, UI/UX]
+tags: [Vuforia, Unity3D, UI/UX]
 categories: [AR, UI/UX]
 draft: false 
 
@@ -22,8 +22,14 @@ lightgallery : true
 
 **My Role** Everything
 
-**Team** Myself
 ### [Demon Video](https://www.youtube.com/watch?v=OSb187lFrDY&ab_channel=JilieZeng )
+
+## Tech Stack
+**Development** - C#, Unity3D, Vuforia  
+
+**3D Modeling** - Rhino3D
+
+**Design** - Adobe XD, Adobe Illustrator, Adobe Photoshop
 
 ## Problem 
 
@@ -49,9 +55,6 @@ A visual representation of this product
 
 ## Development
 
-**Development Tool** Unity3D, Vuforia  
-
-**Modeling Tool** Rhino3D
 
 {{< image src="/posts/ar-manual/5-dev.png" width=700 caption="`Development`" >}}
 

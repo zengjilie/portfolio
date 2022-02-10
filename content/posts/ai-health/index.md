@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "AI in Health Workshop"
+title: "AI in Health Workshop - Front End"
 date: 2022-02-09T18:53:55-06:00
 description: "Website built for UT Austin AI in Health Workshop WWW 2022 "
 draft: false
 
 author: "Alex"
-tags: [React,HTML,CSS, Figma]
+tags: [ReactJS,HTML,CSS, Figma]
 categories: [Front End]
 
 images : [/posts/ai-health/health.png]

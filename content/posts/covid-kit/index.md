@@ -6,7 +6,7 @@ draft: false
 author: "Alex"
 
 tags: [WeChat Mini Program, UI/UX, User Research]
-categories: [UI/UX, Full-Stack]
+categories: [UI/UX, Full Stack]
 draft: false 
 
 images : [/posts/covid-kit/index.png]
@@ -20,11 +20,22 @@ lightgallery : true
 
 **Duration** - 1 month
 
-**My Role** Everything
-
-**My Team** Myself
+**My Role** UI/UX Designer, Developer
 
 ### [Demon Video]( https://www.youtube.com/watch?v=UY41zKFrZkg&ab_channel=JilieZeng)
+### [Git Repo](https://github.com/zengjilie/wechat-mini-program) 
+
+## Tech Stack
+
+**Design** - Adobe XD, Adobe Illustrator, Adobe Photoshop
+
+**Front End** - JavaScript, WXML, WXSS
+
+**Back End** - Python
+
+**Development** - WeChat Mini Program SDK, VSCode
+
+**Visualization** - Apache ECharts
 
 ## Problem
 
@@ -65,15 +76,7 @@ After completing the information architecture, I started to work on the user int
 ## Developement
 
 I developed this project using WeChat Min Program SDK. I also used a Python crawler to collect COVID-19 data, such as COVID cases, relevant videos, and FAQs from multiple websites. Finally, I deployed the beta version of this app on the WeChat platform.
-[Git Repo](https://github.com/zengjilie/wechat-mini-program) 
 
-**Front-End** - JavaScript, WXML, WXSS
-
-**Back-End** - Python
-
-**Development Tool** - WeChat Mini Program SDK, VSCode
-
-**Visualization Tool** - Apache ECharts
 {{< image src="/posts/covid-kit/8-dev.png" width=700 caption="`Development`" >}}
 
 

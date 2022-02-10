@@ -4,7 +4,16 @@
         <link>https://zengjilie.netlify.app/tags/tailwind-css/</link>
         <description>Tailwind CSS - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Thu, 06 Jan 2022 21:16:51 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/tailwind-css/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 13:44:16 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/tailwind-css/" rel="self" type="application/rss+xml" /><item>
+    <title>Uber Dummy Project - Mobile App</title>
+    <link>https://zengjilie.netlify.app/posts/uber-clone/</link>
+    <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
+            </div>Uber clone]]></description>
+</item><item>
     <title>Spotify Dummy Project - Front End</title>
     <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
     <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>

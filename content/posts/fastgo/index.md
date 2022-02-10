@@ -20,6 +20,12 @@ lightgallery : true
 
 <!--more-->
 
+## Tech Stack
+
+**3D Modeling** - Rhino3D, Keyshot
+
+**Design** - Sketchbook, Adobe Illustrator, Adobe Photoshop
+
 ## Problem
 
 Campus commute has always been a problem for Chinese students, especially when some of the Chinese universities started to expand their campus area or merge with another nearby university. In this project, I focus on transportation tools of college students aiming to design a new concept to solve this problem.

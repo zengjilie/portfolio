@@ -6,7 +6,7 @@ date: 2022-01-17T23:44:51-06:00
 draft: false 
 author: "Alex"
 
-tags: [React, Node, Express, MongoDB, Netlify, Heroku, AWS]
+tags: [ReactJS, NodeJS, ExpressJS, MongoDB, Netlify, Heroku, AWS]
 categories: [Full Stack]
 draft: false 
 
@@ -24,30 +24,28 @@ lightgallery : true
 **My Role** - Developer
 
 ### [Demon Site](https://blogfullstack.netlify.app/)
+### [Repo](https://github.com/zengjilie/blog-fullstack)
+
 ## Tech Stack
 
-**Front-End** - ReactJS, CSS, HTML
+**Front End** - ReactJS, CSS, HTML
 
-**Back-End** - NodeJS, ExpressJS. MongoDB
+**Back-End** - NodeJS, ExpressJS, MongoDB
 
-**Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS S3 (Images)
+**Deploy** - Netlify, Heroku, MongoDB Atlas, AWS S3 
 
 **Dependencies** - axios, multer, bcrypt, cors, dotenv, mongoose
 
-## Motivation
-* I want to build a project from scratch. From desgining database schemas and APIs to handling http request and responsive pages. I want to have a full grasp of how a website actually works. 
-* As an engineer, I know sooner or later I will encounter challenges from both frontend and backend, why not now.
-
-## Challenges
-* Design APIs, manage different routers and endpoints inside Express.
+<!-- ## Challenges -->
+<!-- * Design APIs, manage different routers and endpoints using Express.
 * Design database schemas, building a server that connects to MongoDB Atlas.
-* It's really hard to keep my work flow organized when opening both frontend and backend editors at the same time. 
 * Avoid minor mistakes like typos.
 * Add mini-interactions to frontend.
 * Upload files inside a form, use multer to store files inside diskstorage.
 * Use web local Storage to store user info.
 * Fix bugs when connecting mongoDB Atlas with Heroku.
-* Learn how to use AWS s3 to store image files, cause Heroku doesn't allow store files.
+* Learn how to use AWS s3 to store image files, cause Heroku doesn't allow store files. -->
+
 ## Features
 ### User Login / Registration
 {{< image src="./auth.gif" caption="`Authentication`">}}
@@ -74,7 +72,7 @@ lightgallery : true
 {{< image src="./aws.png" caption="`AWS S3`">}}
 
 
-## Takeaways
+<!-- ## Takeaways
 * When developing, set MongoDB **Network Access** to your IP address, when deploying, set it to **anywhere** or your server IP address.
 * I probably should develop the backend first, then the frontend. Hard coding the frontend wasted a lot of time. 
 * Always draw out the structure of products first before starting to develop it. 
@@ -82,4 +80,4 @@ lightgallery : true
 * While waiting for data fetch, frontend should display a **pending status** to indicate the time.
 * More familiar with **HTTP** status code.
 * Learned how to deploy projects to **Heroku**.
-* Learned how **AWS** S3, IAM works.
+* Learned how **AWS** S3, IAM works. -->

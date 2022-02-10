@@ -6,7 +6,7 @@ date: 2020-05-08T13:01:55-06:00
 draft: false
 author: "Alex"
 
-tags: [UI/UX, Persona, Wireframes, User Research]
+tags: [UI/UX]
 categories: [UI/UX]
 draft: false 
 
@@ -30,6 +30,9 @@ lightgallery : true
 {{< admonition tip "Disclaimer" true>}}
 **iRewards** is my latter redesigned version of Cardbo(卡伯), which uses the same research results, not the published version on Line. Our beta version was... too shabby
 {{< /admonition >}}
+
+## Tech Stack
+**Design** - Adobe XD, Adobe Illustrator, Adobe Photoshop
 
 ## Problem 
 

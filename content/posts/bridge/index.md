@@ -23,8 +23,11 @@ lightgallery : true
 
 **My role** - UI/UX Designer
 
-**My team** - 5 UX researchers(no design background)
+**My team** - 5 UX Researchers
 ### [Demon Video](https://www.youtube.com/watch?v=d8clTE9jiIc&ab_channel=JilieZeng)
+
+## Tech Stack
+**Design** - Adobe XD, Adobe Illustrator, Adobe Photoshop
 
 ## Problem 
 

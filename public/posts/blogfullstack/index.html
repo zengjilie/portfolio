@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/zengjilie.netlify.app\/posts\/blogfullstack\/"
-        },"genre": "posts","keywords": "React, Node, Express, MongoDB, Netlify, Heroku, AWS","wordcount":  343 ,
+        },"genre": "posts","keywords": "ReactJS, NodeJS, ExpressJS, MongoDB, Netlify, Heroku, AWS","wordcount":  89 ,
         "url": "https:\/\/zengjilie.netlify.app\/posts\/blogfullstack\/","datePublished": "2022-01-17T23:44:51-06:00","dateModified": "2022-01-17T23:44:51-06:00","publisher": {
             "@type": "Organization",
             "name": "Alex"},"author": {
@@ -106,8 +106,8 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Blog/XYZ - Full Stack</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Alex</a></span>&nbsp;<span class="post-category">included in <a href="/categories/full-stack/"><i class="far fa-folder fa-fw"></i>Full-Stack</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-01-17">2022-01-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;343 words&nbsp;
-                <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-01-17">2022-01-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;89 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -125,11 +125,10 @@
     <li>
       <ul>
         <li><a href="#demon-sitehttpsblogfullstacknetlifyapp"><a href="https://blogfullstack.netlify.app/">Demon Site</a></a></li>
+        <li><a href="#repohttpsgithubcomzengjilieblog-fullstack"><a href="https://github.com/zengjilie/blog-fullstack">Repo</a></a></li>
       </ul>
     </li>
     <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#motivation">Motivation</a></li>
-    <li><a href="#challenges">Challenges</a></li>
     <li><a href="#features">Features</a>
       <ul>
         <li><a href="#user-login--registration">User Login / Registration</a></li>
@@ -142,34 +141,20 @@
         <li><a href="#store-image">Store Image</a></li>
       </ul>
     </li>
-    <li><a href="#takeaways">Takeaways</a></li>
   </ul>
 </nav></div>
             </div><div class="content" id="content"><p><strong>Duration</strong> - 5 days</p>
 <p><strong>My Role</strong> - Developer</p>
 <h3 id="demon-sitehttpsblogfullstacknetlifyapp"><a href="https://blogfullstack.netlify.app/" target="_blank" rel="noopener noreffer">Demon Site</a></h3>
+<h3 id="repohttpsgithubcomzengjilieblog-fullstack"><a href="https://github.com/zengjilie/blog-fullstack" target="_blank" rel="noopener noreffer">Repo</a></h3>
 <h2 id="tech-stack">Tech Stack</h2>
-<p><strong>Front-End</strong> - ReactJS, CSS, HTML</p>
-<p><strong>Back-End</strong> - NodeJS, ExpressJS. MongoDB</p>
-<p><strong>Deploy</strong> - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS S3 (Images)</p>
+<p><strong>Front End</strong> - ReactJS, CSS, HTML</p>
+<p><strong>Back-End</strong> - NodeJS, ExpressJS, MongoDB</p>
+<p><strong>Deploy</strong> - Netlify, Heroku, MongoDB Atlas, AWS S3</p>
 <p><strong>Dependencies</strong> - axios, multer, bcrypt, cors, dotenv, mongoose</p>
-<h2 id="motivation">Motivation</h2>
-<ul>
-<li>I want to build a project from scratch. From desgining database schemas and APIs to handling http request and responsive pages. I want to have a full grasp of how a website actually works.</li>
-<li>As an engineer, I know sooner or later I will encounter challenges from both frontend and backend, why not now.</li>
-</ul>
-<h2 id="challenges">Challenges</h2>
-<ul>
-<li>Design APIs, manage different routers and endpoints inside Express.</li>
-<li>Design database schemas, building a server that connects to MongoDB Atlas.</li>
-<li>It&rsquo;s really hard to keep my work flow organized when opening both frontend and backend editors at the same time.</li>
-<li>Avoid minor mistakes like typos.</li>
-<li>Add mini-interactions to frontend.</li>
-<li>Upload files inside a form, use multer to store files inside diskstorage.</li>
-<li>Use web local Storage to store user info.</li>
-<li>Fix bugs when connecting mongoDB Atlas with Heroku.</li>
-<li>Learn how to use AWS s3 to store image files, cause Heroku doesn&rsquo;t allow store files.</li>
-</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <h2 id="features">Features</h2>
 <h3 id="user-login--registration">User Login / Registration</h3>
 <figure><a class="lightgallery" href="./auth.gif" title="./auth.gif" data-thumbnail="./auth.gif" data-sub-html="<h2>Authentication</h2>">
@@ -259,17 +244,10 @@
             alt="./aws.png" />
     </a><figcaption class="image-caption"><code>AWS S3</code></figcaption>
     </figure>
-<h2 id="takeaways">Takeaways</h2>
-<ul>
-<li>When developing, set MongoDB <strong>Network Access</strong> to your IP address, when deploying, set it to <strong>anywhere</strong> or your server IP address.</li>
-<li>I probably should develop the backend first, then the frontend. Hard coding the frontend wasted a lot of time.</li>
-<li>Always draw out the structure of products first before starting to develop it.</li>
-<li>Encrypt sensitive information is very important, I used <strong>bcrypt</strong> this time, next time use JWT.</li>
-<li>While waiting for data fetch, frontend should display a <strong>pending status</strong> to indicate the time.</li>
-<li>More familiar with <strong>HTTP</strong> status code.</li>
-<li>Learned how to deploy projects to <strong>Heroku</strong>.</li>
-<li>Learned how <strong>AWS</strong> S3, IAM works.</li>
-</ul></div><div class="post-footer" id="post-footer">
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+</blockquote></div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
@@ -280,20 +258,20 @@
         <div class="post-info-line">
             <div class="post-info-md"></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-hashtags="React,Node,Express,MongoDB,Netlify,Heroku,AWS"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-hashtag="React"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://zengjilie.netlify.app/posts/blogfullstack/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-image="/posts/blogfullstack/index.png"><i class="fab fa-weibo fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-hashtags="ReactJS,NodeJS,ExpressJS,MongoDB,Netlify,Heroku,AWS"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-hashtag="ReactJS"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://zengjilie.netlify.app/posts/blogfullstack/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://zengjilie.netlify.app/posts/blogfullstack/" data-title="Blog/XYZ - Full Stack" data-image="/posts/blogfullstack/index.png"><i class="fab fa-weibo fa-fw"></i></a></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/react/">React</a>,&nbsp;<a href="/tags/node/">Node</a>,&nbsp;<a href="/tags/express/">Express</a>,&nbsp;<a href="/tags/mongodb/">MongoDB</a>,&nbsp;<a href="/tags/netlify/">Netlify</a>,&nbsp;<a href="/tags/heroku/">Heroku</a>,&nbsp;<a href="/tags/aws/">AWS</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/reactjs/">ReactJS</a>,&nbsp;<a href="/tags/nodejs/">NodeJS</a>,&nbsp;<a href="/tags/expressjs/">ExpressJS</a>,&nbsp;<a href="/tags/mongodb/">MongoDB</a>,&nbsp;<a href="/tags/netlify/">Netlify</a>,&nbsp;<a href="/tags/heroku/">Heroku</a>,&nbsp;<a href="/tags/aws/">AWS</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
     </div>
 
-    <div class="post-nav"><a href="/posts/amazon-clone/" class="prev" rel="prev" title="Ecommerce website- Full Stack"><i class="fas fa-angle-left fa-fw"></i>Ecommerce website- Full Stack</a>
-            <a href="/posts/ai-health/" class="next" rel="next" title="AI in Health Workshop">AI in Health Workshop<i class="fas fa-angle-right fa-fw"></i></a></div>
+    <div class="post-nav"><a href="/posts/amazon-clone/" class="prev" rel="prev" title="Ecommerce website - Full Stack"><i class="fas fa-angle-left fa-fw"></i>Ecommerce website - Full Stack</a>
+            <a href="/posts/ai-health/" class="next" rel="next" title="AI in Health Workshop - Front End">AI in Health Workshop - Front End<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 </article></div>
             </main><footer class="footer">

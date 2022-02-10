@@ -7,7 +7,7 @@ draft: false
 
 author: "Alex"
 
-tags: [React Native, Tailwind, Redux, Google Maps]
+tags: [React Native, Tailwind CSS, Redux, Google Maps]
 categories: [Mobile App]
 draft: false 
 
@@ -24,11 +24,11 @@ lightgallery : true
 
 **My Role** - Mobile Developer
 
-**My Team** Myself
+<!-- ## Motivation
 
-## Motivation
+I have a mobile application developed using WeChat Mini Program but it's not common in the US. React Native is right now the most popular framework for developing mobile apps. So I want to use react native to build a small mobile application, see how it works. -->
 
-I have a mobile application developed using WeChat Mini Program but it's not common in the US. React Native is right now the most popular framework for developing mobile apps. So I want to use react native to build a small mobile application, see how it works.
+### [Repo](https://github.com/zengjilie/uber-clone)
 
 ## Tech Stack
 **Front-End** - React Native, Tailwind CSS,
@@ -51,15 +51,15 @@ I have a mobile application developed using WeChat Mini Program but it's not com
 ![fee](/posts/uber-clone/fee.gif)
 
 
-## Challenges
+<!-- ## Challenges
 
 * Learn how the Google Map Api works
 
-* Get familar with Tailwind CSS (I love it!)
+* Get familar with Tailwind CSS (I love it!) -->
 
 
-## Takeaways 
+<!-- ## Takeaways 
 
 * React Native is very easy to learn if you're already familiar with React.
-* The performance of React Native is so must better then WeChat Mini Programs. 
+* The performance of React Native is so must better then WeChat Mini Programs.  -->
 

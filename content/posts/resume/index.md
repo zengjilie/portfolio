@@ -6,7 +6,7 @@ draft: true
 author: "Alex"
 
 tags: [React, Tailwind]
-categories: [Front-End]
+categories: [Front End]
 draft: false 
 
 images : [/posts/resume/index.png]
@@ -20,21 +20,15 @@ lightgallery : true
 
 **Duration** - 1 day
 
-**My Role** - Developer
-
-**My Team** Myself
+**My Role** - Front End Developer
 
 ### [Demon Site](https://zengjilie.github.io/resume/)
-
-## Motivation
-I found that everybody's resume looks the same, so I want to do something different.
+### [Repo](https://github.com/zengjilie/resume)
 
 ## Tech Stack
 
-**Front-End** - React, Tailwind CSS,
+**Front End** - React, Tailwind CSS
 
-
-
-## Takeaways
+<!-- ## Takeaways
 * Tailwind CSS may not good for complex animations? Need to explore more about it
-* Try to customize Tailwind CSS animations
+* Try to customize Tailwind CSS animations -->
