@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Figma - Tag - Alex Zeng</title>
+        <link>https://zengjilie.netlify.app/tags/figma/</link>
+        <description>Figma - Tag - Alex Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Wed, 09 Feb 2022 18:53:55 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/figma/" rel="self" type="application/rss+xml" /><item>
+    <title>AI in Health Workshop</title>
+    <link>https://zengjilie.netlify.app/posts/ai-health/</link>
+    <pubDate>Wed, 09 Feb 2022 18:53:55 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ai-health/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ai-health/health.png" referrerpolicy="no-referrer">
+            </div>Website built for UT Austin AI in Health Workshop WWW 2022 ]]></description>
+</item></channel>
+</rss>

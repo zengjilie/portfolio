@@ -23,13 +23,12 @@ lightgallery : true
 
 **My Role** - Developer
 
-**My Team** Myself
 ### [Demon Site](https://blogfullstack.netlify.app/)
 ## Tech Stack
 
-**Front-End** - React.js, CSS, HTML
+**Front-End** - ReactJS, CSS, HTML
 
-**Back-End** - Node.js, Express.js. MongoDB,
+**Back-End** - NodeJS, ExpressJS. MongoDB
 
 **Deploy** - Netlify (frontend), Heroku (backend), MongoDB Atlas (database), AWS S3 (Images)
 
