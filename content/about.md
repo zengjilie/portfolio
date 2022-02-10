@@ -18,25 +18,22 @@ After learning how to design products for four years, I decided to change my car
 ## Tech I use 
 
 **Languages**
-    - JavaScript, TypeScript, Java, Python, C#
+    - Java, Python, JavaScipt, C, C#
 
 **Framewroks**
-    - React.js, Express.js, Next.js
+    - ReactJS, ExpressJS, NextJS
 
 **Tools**
     - VSCode, Vim, Github, Tailwind CSS
 
 **Database**
-    - Firebase, MongoDB, MySQL
+    - NoSQL/SQL, MySQL, MongoDB, Google Firebase
 
 **Dev Environment**
-    - Linux, MacOS, Pop!OS
+    - Linux/Unix, Pop!OS
 
-**Machine Learning**
-    - Numpy, Matplotlib, Pandas, JupyterNotebook
-
-**Course Taken**
-    - Algorithms, Data Structure, Data Mining, Database Management, Java, Creative Coding
+**Courses**
+    - Operating Systems, AI in Health, Algorithms/Data Structure, Data Mining, Database Management
 
 **Design**
     - Figma, Adobe Creative Suite, Rhino3D, Keyshot
@@ -45,7 +42,7 @@ After learning how to design products for four years, I decided to change my car
 
 **University of Texas at Austin**
 
-Master of Science in Information Science
+Master of Science in Information Studies/Science
 
 2021 - persent
 
@@ -90,4 +87,3 @@ Product Design (10,000 TWD)
 
 **Music**
     -Math Rock, Electric, Jazz Fusion, J-Rock
-
