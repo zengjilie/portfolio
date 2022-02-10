@@ -29,14 +29,12 @@ lightgallery : true
 
 **Design** - Figma
 
-
-
 ## Design Explorations
 ### [Version 1](https://www.figma.com/proto/4ri49CjNwKi3yk8f77Iv3a/conference?page-id=0%3A1&node-id=55%3A3&viewport=241%2C48%2C0.24&scaling=min-zoom&starting-point-node-id=149%3A79)
 
 {{< image src="./v-1.png" height="700px" width="700px" caption="`Version 1`">}}
 
-### [Version 2](https://www.figma.com/proto/4ri49CjNwKi3yk8f77Iv3a/conference?page-id=0%3A1&node-id=55%3A3&viewport=241%2C48%2C0.24&scaling=min-zoom&starting-point-node-id=149%3A79)
+### [Version 2](https://www.figma.com/proto/4ri49CjNwKi3yk8f77Iv3a/conference?page-id=0%3A1&node-id=149%3A79&starting-point-node-id=149%3A79)
 
 {{< image src="./v-2.png" height="700px" width="700px" caption="`Version 2`">}}
 
