@@ -5,7 +5,7 @@ date: 2022-01-07T22:42:36-06:00
 draft: true
 author: "Alex"
 
-tags: [React, Tailwind]
+tags: [ReactJS, Tailwind CSS, HTML]
 categories: [Front End]
 draft: false 
 

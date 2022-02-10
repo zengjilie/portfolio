@@ -6,7 +6,7 @@ draft: false
 
 author: "Alex"
 
-tags: [UI/UX, Persona, Wireframes, User Research]
+tags: [UI/UX]
 categories: [UI/UX]
 draft: false 
 

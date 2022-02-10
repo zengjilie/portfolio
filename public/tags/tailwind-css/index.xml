@@ -4,7 +4,7 @@
         <link>https://zengjilie.netlify.app/tags/tailwind-css/</link>
         <description>Tailwind CSS - Tag - Alex Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 13:44:16 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/tailwind-css/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 22:42:36 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/tailwind-css/" rel="self" type="application/rss+xml" /><item>
     <title>Uber Dummy Project - Mobile App</title>
     <link>https://zengjilie.netlify.app/posts/uber-clone/</link>
     <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
@@ -22,5 +22,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
             </div>Spotify clone]]></description>
+</item><item>
+    <title>Resume - Front End</title>
+    <link>https://zengjilie.netlify.app/posts/resume/</link>
+    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
+            </div>Personal resume]]></description>
 </item></channel>
 </rss>

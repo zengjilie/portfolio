@@ -5,7 +5,7 @@ date: 2020-07-07T23:06:21-06:00
 draft: false
 author: "Alex"
 
-tags: [WeChat Mini Program, UI/UX, User Research]
+tags: [WeChat Mini Program, UI/UX]
 categories: [UI/UX, Full Stack]
 draft: false 
 

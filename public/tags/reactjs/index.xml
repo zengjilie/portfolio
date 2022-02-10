@@ -40,5 +40,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
             </div>Spotify clone]]></description>
+</item><item>
+    <title>Resume - Front End</title>
+    <link>https://zengjilie.netlify.app/posts/resume/</link>
+    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
+            </div>Personal resume]]></description>
 </item></channel>
 </rss>
