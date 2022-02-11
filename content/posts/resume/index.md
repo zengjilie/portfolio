@@ -22,7 +22,7 @@ lightgallery : true
 
 **My Role** - Front End Developer
 
-### [Demon Site](https://zengjilie.github.io/resume/)
+### [Demo Site](https://zengjilie.github.io/resume/)
 ### [Repo](https://github.com/zengjilie/blog-fullstack)
 
 ## Tech Stack

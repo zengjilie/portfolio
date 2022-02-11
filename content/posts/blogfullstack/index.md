@@ -23,7 +23,7 @@ lightgallery : true
 
 **My Role** - Developer
 
-### [Demon Site](https://blogfullstack.netlify.app/)
+### [Demo Site](https://blogfullstack.netlify.app/)
 ### [Repo](https://github.com/zengjilie/blog-fullstack)
 
 ## Tech Stack

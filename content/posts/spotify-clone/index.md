@@ -21,7 +21,7 @@ lightgallery : true
 
 **My Role** - Front End Developer
 
-### [Demon Video](https://youtu.be/tM8pquJBciE)
+### [Demo Video](https://youtu.be/tM8pquJBciE)
 ### [Repo](https://github.com/zengjilie/spotify-clone)
 <!-- ## Motivation
 

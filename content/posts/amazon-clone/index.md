@@ -22,7 +22,7 @@ lightgallery : true
 
 **My Role** - Full Stack Developer
 
-### [Demon Site](https://challenge-d6ab9.web.app)
+### [Demo Site](https://challenge-d6ab9.web.app)
 ### [Repo](https://github.com/zengjilie/amazon-clone)
 
 ## Tech Stack

@@ -13,18 +13,18 @@ code:
 ## Who I am 
 Howdy! I'm Alex 👋
 
-After learning how to design products for four years, I decided to change my career to software development because I want to make my designs into a reality. Having the ability to create a product, share it with the world, and use it to help those in need gives my life meaning. I have been coding for 2 years now and if you were to ask me what I learned from this journey, it is to “keep pushing, never settle” 
+An Industrial designer turned software engineer. I have a passion for both design and software development. I believe that an execllent product is the "baby" of **Design**, **Engineering**, and most importantly, **Human-centered mindset**. Currenly, I'm a graduate student at UT Austin, and is looking for 2022 summer internships.
 
 ## Tech I use 
 
 **Languages**
-    - Java, Python, JavaScipt, TypeScript(learning), C, C#, HTML/CSS
+    - Java, Python, JavaScript, TypeScript, C, C#, HTML, CSS
 
 **JavaScript Libraies**
     - ReactJS, NodeJS, ExpressJS, NextJS, P5JS, ThreeJS, Apache Echarts
 
 **Database**
-    - NoSQL/SQL, MySQL, MongoDB
+    - NoSQL, SQL, MySQL, MongoDB
 
 **Cloude**
     - AWS, MongoDB Atlas, Firebase

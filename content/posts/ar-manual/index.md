@@ -22,7 +22,7 @@ lightgallery : true
 
 **My Role** Everything
 
-### [Demon Video](https://www.youtube.com/watch?v=OSb187lFrDY&ab_channel=JilieZeng )
+### [Demo Video](https://www.youtube.com/watch?v=OSb187lFrDY&ab_channel=JilieZeng )
 
 ## Tech Stack
 **Development** - C#, Unity3D, Vuforia  

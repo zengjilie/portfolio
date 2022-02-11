@@ -22,8 +22,8 @@ lightgallery : true
 
 **My Role** UI/UX Designer, Developer
 
-### [Demon Video]( https://www.youtube.com/watch?v=UY41zKFrZkg&ab_channel=JilieZeng)
-### [Git Repo](https://github.com/zengjilie/wechat-mini-program) 
+### [Demo Video]( https://www.youtube.com/watch?v=UY41zKFrZkg&ab_channel=JilieZeng)
+### [Repo](https://github.com/zengjilie/wechat-mini-program) 
 
 ## Tech Stack
 
