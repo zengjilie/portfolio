@@ -18,22 +18,22 @@ After learning how to design products for four years, I decided to change my car
 ## Tech I use 
 
 **Languages**
-    - Java, Python, JavaScipt, C, C#
+    - Java, Python, JavaScipt, TypeScript(learning), C, C#, HTML/CSS
 
-**Framewroks**
-    - ReactJS, ExpressJS, NextJS
-
-**Tools**
-    - VSCode, Vim, Github, Tailwind CSS
+**JavaScript Libraies**
+    - ReactJS, NodeJS, ExpressJS, NextJS, P5JS, ThreeJS, Apache Echarts
 
 **Database**
-    - NoSQL/SQL, MySQL, MongoDB, Google Firebase
+    - NoSQL/SQL, MySQL, MongoDB
 
-**Dev Environment**
-    - Linux/Unix, Pop!OS
+**Cloude**
+    - AWS, MongoDB Atlas, Firebase
+
+**OS**
+    - MacOS, Pop!OS(Linux)
 
 **Courses**
-    - Operating Systems, AI in Health, Algorithms/Data Structure, Data Mining, Database Management
+    - Operating Systems, Algorithms/Data Structure, Data Mining, Database Management, AI in Health
 
 **Design**
     - Figma, Adobe Creative Suite, Rhino3D, Keyshot
