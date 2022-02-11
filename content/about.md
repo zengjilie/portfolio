@@ -13,7 +13,7 @@ code:
 ## Who I am 
 Howdy! I'm Alex 👋
 
-An Industrial designer turned software engineer. I have a passion for both design and software development. I believe that an execllent product is the "baby" of **Design**, **Engineering**, and most importantly, **Human-centered mindset**. Currenly, I'm a graduate student at UT Austin, and is looking for 2022 summer internships.
+An **Industrial designer** turned **software engineer**. I have a passion for both design and software development. I believe that an excellent product is the “baby” of Design, Engineering, and a Human-centered mindset. Currently, I’m a graduate student at **UT Austin** and am looking for 2022 summer internships.
 
 ## Tech I use 
 
