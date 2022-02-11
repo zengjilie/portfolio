@@ -32,7 +32,7 @@ lightgallery : true
 
 **Deployment** - Firebase
 
-**API** - StripJS
+**API** - StripeJS
 
 <!-- ## Challenges
 
