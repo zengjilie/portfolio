@@ -6,7 +6,7 @@ description: "Amazon clone"
 draft: false
 author: "Alex"
 
-tags: [ReactJS, CSS, Firebase, ExpressJS, StripeJS]
+tags: [ReactJS, NodeJS, ExpressJS, Firebase, StripeJS, CSS]
 categories: [Full-Stack]
 draft: false 
 
