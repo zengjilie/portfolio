@@ -5,7 +5,7 @@ description: "Spotify clone"
 date: 2022-01-06T21:16:51-06:00
 author: "Alex"
 
-tags: [NextJS, ReactJS, Tailwind CSS, Recoil, NextAuthJS]
+tags: [NextJS, ReactJS, NextAuthJS, Recoil, Tailwind CSS]
 categories: [Front-End]
 draft: false 
     
