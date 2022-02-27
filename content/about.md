@@ -18,22 +18,22 @@ An Industrial designer turned **software engineer**. I have a passion for both *
 ## Tech I use 
 
 **Languages**
-    - Java, Python, JavaScript, TypeScript, C, C#, HTML, CSS
+    - Java, Python, JavaScript, TypeScript, C/C#, HTML/CSS/SASS
 
 **JavaScript Libraies**
-    - ReactJS, NodeJS, ExpressJS, NextJS, P5JS, ThreeJS, Apache Echarts
+    - NodeJS, ExpressJS, ReactJS, NextJS, P5JS, ThreeJS, Apache Echarts, EJS
 
 **Database**
-    - NoSQL, SQL, MySQL, MongoDB
+    - PostgreSQL, MySQL, MongoDB
 
 **Cloude**
-    - AWS, MongoDB Atlas, Firebase
+    - AWS, Firebase, MongoDB Atlas
 
 **OS**
     - MacOS, Pop!OS(Linux)
 
-**Courses**
-    - Operating Systems, Algorithms/Data Structure, Data Mining, Database Management, AI in Health
+**Coursework**
+    - Operating Systems, Algorithms, Data Mining, Database Management, AI in Health
 
 **Design**
     - Figma, Adobe Creative Suite, Rhino3D, Keyshot
@@ -42,7 +42,7 @@ An Industrial designer turned **software engineer**. I have a passion for both *
 
 **University of Texas at Austin**
 
-Master of Science in Information Studies/Science
+Master of Science in Information Science/Studies
 
 2021 - persent
 
