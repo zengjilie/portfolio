@@ -30,7 +30,7 @@ lightgallery : true
 
 ## Tech Stack
 
-**Front End** - EJS, HTML/CSS/SASS
+**Front End** - HTML/CSS, SASS
 
 **Back End** - NodeJS, ExpressJS, EJS
 
