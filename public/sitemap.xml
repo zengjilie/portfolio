@@ -2,28 +2,31 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://zengjilie.netlify.app/posts/ohmybible/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/ai-health/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/blogfullstack/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/amazon-clone/</loc><lastmod>2022-01-03T21:20:59-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/uber-clone/</loc><lastmod>2022-01-07T13:44:16-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/spotify-clone/</loc><lastmod>2022-01-06T21:16:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/ar-manual/</loc><lastmod>2020-08-08T11:18:50-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/categories/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/categories/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/ejs/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/expressjs/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/categories/full-stack/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/html/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/nodejs/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/sass/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/css/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/figma/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/categories/front-end/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/html/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/reactjs/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/aws/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/expressjs/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/categories/full-stack/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/heroku/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/mongodb/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/netlify/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/nodejs/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/resume/</loc><lastmod>2022-01-07T22:42:36-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/tailwind-css/</loc><lastmod>2022-01-07T22:42:36-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/google-maps/</loc><lastmod>2022-01-07T13:44:16-06:00</lastmod></url><url>

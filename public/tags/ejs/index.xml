@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EJS - Tag - Alex Zeng</title>
+        <link>https://zengjilie.netlify.app/tags/ejs/</link>
+        <description>EJS - Tag - Alex Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Sun, 06 Mar 2022 16:20:23 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/ejs/" rel="self" type="application/rss+xml" /><item>
+    <title>Oh My BIBLE</title>
+    <link>https://zengjilie.netlify.app/posts/ohmybible/</link>
+    <pubDate>Sun, 06 Mar 2022 16:20:23 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ohmybible/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ohmybible/index.png" referrerpolicy="no-referrer">
+            </div>Also a gift for all my Christian friends]]></description>
+</item></channel>
+</rss>

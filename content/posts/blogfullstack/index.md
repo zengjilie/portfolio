@@ -30,7 +30,7 @@ lightgallery : true
 
 **Front End** - ReactJS, CSS, HTML
 
-**Back-End** - NodeJS, ExpressJS, MongoDB
+**Back End** - NodeJS, ExpressJS, MongoDB
 
 **Deploy** - Netlify, Heroku, MongoDB Atlas, AWS S3 
 
