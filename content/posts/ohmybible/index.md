@@ -52,5 +52,5 @@ lightgallery : true
 ### Pick a Verse
 {{< image src="./verse.png" caption="`Verse`">}}
 
-### Search a Chapter 
+### Search Relevent Chapters (Pagination)
 {{< image src="./search.png" caption="`Search`">}}
