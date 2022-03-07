@@ -35,21 +35,3 @@ Authorization is so popular in lots of applications. It's an important step to b
 **Api** - Spotify Web Api
 
 **State Management** - RecoilJS
-
-<!-- ## Challenges
-
-* Use NextAuth.js to ask for user's authorization and perform user authentication
-
-* Use JWT in nextauth's callback functions to increase security
-
-* Learn how the Spotify Web Api works
-
-* Learn how Server-Side rendering works
-
-* Deploy website to Vercel and set environmental variables -->
-
-<!-- ## Takeaways 
-
-* Next.js is so powerful, gonna use it to build a full-stack project next time 
-
-* Recoil is sematically more readable then Redux, probably ~~**never**~~ gonna use Redux again -->

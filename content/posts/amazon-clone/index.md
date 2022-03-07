@@ -58,13 +58,5 @@ lightgallery : true
 
 ![tracking orders](/posts/amazon-clone/amazon_shot_3.gif)
 
-<!-- ## Takeaways 
-
-* Firbase provides cloude database but uses NoSQL database
-
-* Gonna try other hosting platform next time  -->
-
-
- 
 
 

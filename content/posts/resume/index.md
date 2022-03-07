@@ -28,7 +28,3 @@ lightgallery : true
 ## Tech Stack
 
 **Front End** - React, Tailwind CSS
-
-<!-- ## Takeaways
-* Tailwind CSS may not good for complex animations? Need to explore more about it
-* Try to customize Tailwind CSS animations -->

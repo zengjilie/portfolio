@@ -49,17 +49,3 @@ I have a mobile application developed using WeChat Mini Program but it's not com
 ### Fee Calculation
 
 ![fee](/posts/uber-clone/fee.gif)
-
-
-<!-- ## Challenges
-
-* Learn how the Google Map Api works
-
-* Get familar with Tailwind CSS (I love it!) -->
-
-
-<!-- ## Takeaways 
-
-* React Native is very easy to learn if you're already familiar with React.
-* The performance of React Native is so must better then WeChat Mini Programs.  -->
-
