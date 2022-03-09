@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Oh My BIBLE - Full Stack"
-subtitle: "Fullstack challenge for Internship Program"
+subtitle: "Fullstack Challenge for Internship Program"
 description: "Also a gift for all my Christian friends"
 date: 2022-03-06T16:20:23-06:00
 draft: false
