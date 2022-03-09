@@ -17,26 +17,26 @@ An Industrial designer turned **software engineer**. I have a passion for both *
 
 ## Tech I use 
 
-**Languages**
-    - Java, Python, JavaScript, TypeScript, C/C#, HTML/CSS/SASS
+**Programming Languages**
+    - Java, Python, JavaScript, C, C# 
 
-**JavaScript Libraies**
-    - NodeJS, ExpressJS, ReactJS, NextJS, P5JS, ThreeJS, Apache Echarts, EJS
+**Frontend**
+    - ReactJS/Redux, NextJS, Bootstrap, HTML/CSS/SASS, P5JS, ThreeJS, Apache Echarts,
 
-**Database**
-    - PostgreSQL, MySQL, MongoDB
+**Backend**
+    - NodeJS, ExpressJS, EJS, PostgreSQL, MongoDB, MySQL
 
-**Cloude**
-    - AWS, Firebase, MongoDB Atlas
+**Others**
+    - AWS, Firebase, MongoDB Atlas, Version Control, Linux/Unix
 
-**OS**
-    - MacOS, Pop!OS(Linux)
+**Learning**
+    - TypeScript, Redis
 
-**Coursework**
-    - Operating Systems, Algorithms, Data Mining, Database Management, AI in Health
+**Relevant Coursework**
+    - Operating Systems, Algorithms, Data Mining, Database Management, AI in Health, Software Design and Implementation II
 
 **Design**
-    - Figma, Adobe Creative Suite, Rhino3D, Keyshot
+    - Adobe XD, Figma, Adobe Creative Suite, Rhino3D, Keyshot
 
 ## Education
 
