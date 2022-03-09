@@ -21,7 +21,7 @@ An Industrial designer turned **software engineer**. I have a passion for both *
     - Java, Python, JavaScript, C, C# 
 
 **Frontend**
-    - ReactJS/Redux, NextJS, Bootstrap, HTML/CSS/SASS, P5JS, ThreeJS, Apache Echarts,
+    - ReactJS/Redux, NextJS, BootStrap, HTML/CSS/SASS, P5JS, ThreeJS, Apache Echarts,
 
 **Backend**
     - NodeJS, ExpressJS, EJS, PostgreSQL, MongoDB, MySQL
