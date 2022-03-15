@@ -136,7 +136,4 @@ theme = "LoveIt-1"
   # LoveIt CHANGED | 0.2.0
   home = ["HTML", "RSS", "JSON"]
 
-[privacy]
-  # LoveIt DELETED | 0.2.0 privacy of the Google Analytics (replaced by params.analytics.google)
-  [privacy.googleAnalytics]
 
