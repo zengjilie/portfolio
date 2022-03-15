@@ -30,7 +30,7 @@ An Industrial designer turned **software engineer**. I have a passion for both *
     - AWS, Firebase, MongoDB Atlas, Version Control, Linux/Unix
 
 **Learning**
-    - TypeScript, Redis
+    - TypeScript, Redis, Docker
 
 **Relevant Coursework**
     - Operating Systems, Algorithms, Data Mining, Database Management, AI in Health, Software Design and Implementation II
