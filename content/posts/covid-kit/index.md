@@ -69,7 +69,7 @@ After completing the information architecture, I started to work on the user int
 
 {{< image src="/posts/covid-kit/6-proto.png" width=700 caption="`Hi-Fi Prototype`" >}}
 
-## UI Spec
+## UI Specs
 
 {{< image src="/posts/covid-kit/7-spec.png" width=700 caption="`UI Spec`" >}}
 

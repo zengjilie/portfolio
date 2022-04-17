@@ -66,7 +66,7 @@ Based on the refined version of wireframes, I built the information architecture
 
 {{< image src="/posts/irewards/6-ia.png" width=700 caption="`Information Architecture`" >}}
 
-## UI Spec
+## UI Specs
 
 Here is my favorite design part.
 
@@ -84,7 +84,7 @@ I invited 3 tester to test this app. Here are the results.
 {{< image src="/posts/irewards/9-test.png" width=800 caption="`Usability Test`" >}}
 
 ## Takeaways
-
+<!--  -->
 * Don't ask questions continuously during user interviews
 * Give users some thing to try or play with 
 * Turn WHY questions into WHAT questions

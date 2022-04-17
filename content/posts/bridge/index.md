@@ -35,7 +35,7 @@ In this project, we focused on elderly life. Since we are a team, we started by 
 
 {{< image src="/posts/bridge/1-problem.png" width=800 caption="`HMWs`" >}}
 
-## User Rsearch
+## User Research
 
 We conducted 6 offline interviews with seniors who happened to have international immigration or domestic migration experiences (It’s really hard to find people with this kind of experience who happens to be a senior). Based on our interviews, we used the user spectrum to categories their behavior patterns and lifestyles.
 
@@ -67,7 +67,7 @@ Value proposition canvas is a very good tool for teams to brainstorm ideas and a
 
 {{< image src="/posts/bridge/7-ia.png" width=800 caption="`Information Architecture`" >}}
 
-## UI Spec
+## UI Specs
 
 Here comes my favorite part!
 
