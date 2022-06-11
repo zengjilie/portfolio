@@ -7,7 +7,7 @@ date: 2022-06-10T23:48:59-07:00
 author: "Jiabao Li, Houjiang Liu, Alex, Alec McGail, Di Wu, Ying Ding"
 draft: false
 
-tags: [P5JS, ExpressJS, Docker]
+tags: [P5JS, ExpressJS, NodeJS, Docker]
 categories: [Data Visualization]
 
 images : [/posts/mentor-tree/index2.png]
