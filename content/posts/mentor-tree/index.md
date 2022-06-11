@@ -43,7 +43,7 @@ female -> tilt to the right
 
 unknown -> no tilt
 
-{{< image src="./tilt.png" caption="`Charles Sanders Peirce'stree`">}}
+{{< image src="./tilt.png" caption="`Jennifer A Doudna`">}}
 
 ### Leaf 
 The leaf width response to the researcher's mentee number, the more mentee he/she/unknown has, the wider leaf.
