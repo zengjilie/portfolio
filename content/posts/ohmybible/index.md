@@ -9,7 +9,6 @@ author: "Alex"
 
 tags: [NodeJS, ExpressJS, EJS, SASS, HTML]
 categories: [Full Stack]
-draft: false 
 
 images : [/posts/ohmybible/index.png]
 featuredImage: "/posts/ohmybible/index.png"
@@ -21,7 +20,7 @@ lightgallery : true
 
 <!--more-->
 
-**Duration** - 3 days
+**Duration** - 5 days
 
 **My Role** - Developer
 
