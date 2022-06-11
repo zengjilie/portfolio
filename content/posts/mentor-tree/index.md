@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Mentor Trees"
+title: "Mentor Trees - Data Visualization"
 subtitle: "Submission for IEEE VISAP 2022"
 description: "Data Visualization, Creative Coding"
 date: 2022-06-10T23:48:59-07:00
