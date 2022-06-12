@@ -21,7 +21,7 @@ lightgallery : true
 
 Check out our sick website! https://www.mentortrees.com
 
-Repo https://github.com/zengjilie/mentortree)
+Repo https://github.com/zengjilie/mentortree
 
 
 ## Introduction
