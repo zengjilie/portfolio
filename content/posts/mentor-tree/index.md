@@ -25,7 +25,7 @@ Repo https://github.com/zengjilie/mentortree
 
 
 ## Introduction
-Submission for the 2022 IEEE VISAP.
+Submission for the IEEE VISAP 2022.
 
 Topics: Storytelling, Gender Equity,Gender in Academia.
 
