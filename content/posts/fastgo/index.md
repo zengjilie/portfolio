@@ -41,7 +41,7 @@ I identified the 4 most important stakeholders inside the campus traffic ecosyst
 
 ## Stakeholder Relationship
 Understanding their conflicts of interest can help me identify the most important problem to solve.
-{{< image src="/posts/fastgo/3-relationship.png" width=600 caption="`Stackholder Relationship`" >}}
+{{< image src="/posts/fastgo/3-relationship.png" width=600 caption="`Stakeholder Relationship`" >}}
 
 ## Ideation
 Prioritize the possible solutions.
