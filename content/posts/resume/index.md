@@ -3,7 +3,7 @@ title: "Resume - Front End"
 description: "Personal resume"
 date: 2022-01-07T22:42:36-06:00
 draft: true
-author: "Alex"
+author: "Jilie"
 
 tags: [ReactJS, Tailwind CSS, HTML]
 categories: [Front End]

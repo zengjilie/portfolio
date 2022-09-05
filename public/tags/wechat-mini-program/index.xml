@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>WeChat Mini Program - Tag - Alex Zeng</title>
+        <title>WeChat Mini Program - Tag - Jilie Zeng</title>
         <link>https://zengjilie.netlify.app/tags/wechat-mini-program/</link>
-        <description>WeChat Mini Program - Tag - Alex Zeng</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Tue, 07 Jul 2020 23:06:21 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/wechat-mini-program/" rel="self" type="application/rss+xml" /><item>
+        <description>WeChat Mini Program - Tag - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Tue, 07 Jul 2020 23:06:21 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/wechat-mini-program/" rel="self" type="application/rss+xml" /><item>
     <title>Covid Kit - UI/UX - Full Stack</title>
     <link>https://zengjilie.netlify.app/posts/covid-kit/</link>
     <pubDate>Tue, 07 Jul 2020 23:06:21 -0600</pubDate>

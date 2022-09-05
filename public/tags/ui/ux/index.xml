@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>UI/UX - Tag - Alex Zeng</title>
+        <title>UI/UX - Tag - Jilie Zeng</title>
         <link>https://zengjilie.netlify.app/tags/ui/ux/</link>
-        <description>UI/UX - Tag - Alex Zeng</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><atom:link href="https://zengjilie.netlify.app/tags/ui/ux/" rel="self" type="application/rss+xml" /><item>
+        <description>UI/UX - Tag - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><atom:link href="https://zengjilie.netlify.app/tags/ui/ux/" rel="self" type="application/rss+xml" /><item>
     <title>AR User Manual - UI/UX - AR</title>
     <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
     <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>

@@ -3,7 +3,7 @@ title: "Covid Kit - UI/UX - Full Stack"
 description: "How I built a WeChat Mini Program in 30 days"
 date: 2020-07-07T23:06:21-06:00
 draft: false
-author: "Alex"
+author: "Jilie"
 
 tags: [WeChat Mini Program, UI/UX]
 categories: [UI/UX, Full Stack]

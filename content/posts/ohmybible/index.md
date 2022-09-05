@@ -5,7 +5,7 @@ subtitle: "Fullstack Challenge for Internship Program"
 description: "Also a gift for all my Christian friends"
 date: 2022-03-06T16:20:23-06:00
 draft: false
-author: "Alex"
+author: "Jilie"
 
 tags: [NodeJS, ExpressJS, EJS, SASS, HTML]
 categories: [Full Stack]

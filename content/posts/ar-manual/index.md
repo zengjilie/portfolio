@@ -4,7 +4,7 @@ title: "AR User Manual - UI/UX - AR"
 description: "How I built an AR user manual in 7 days"
 date: 2020-08-08T11:18:50-06:00
 draft: false
-author: "Alex"
+author: "Jilie"
 
 tags: [Vuforia, Unity3D, UI/UX]
 categories: [AR, UI/UX]

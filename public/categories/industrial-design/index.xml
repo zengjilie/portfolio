@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Industrial Design - Category - Alex Zeng</title>
+        <title>Industrial Design - Category - Jilie Zeng</title>
         <link>https://zengjilie.netlify.app/categories/industrial-design/</link>
-        <description>Industrial Design - Category - Alex Zeng</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Wed, 08 Jan 2020 18:01:10 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/industrial-design/" rel="self" type="application/rss+xml" /><item>
+        <description>Industrial Design - Category - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Wed, 08 Jan 2020 18:01:10 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/industrial-design/" rel="self" type="application/rss+xml" /><item>
     <title>Fastgo - Industrial Design</title>
     <link>https://zengjilie.netlify.app/posts/fastgo/</link>
     <pubDate>Wed, 08 Jan 2020 18:01:10 -0600</pubDate>

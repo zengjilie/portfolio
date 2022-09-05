@@ -5,7 +5,7 @@ description: "My graduation industrial design project"
 date: 2020-01-08T18:01:10-06:00
 draft: false
 
-author: "Alex"
+author: "Jilie"
 
 tags: [Industrial Design, Rhino3D, Keyshot]
 categories: [Industrial Design]

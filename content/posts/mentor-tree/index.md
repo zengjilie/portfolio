@@ -4,7 +4,7 @@ title: "Mentor Trees - Data Visualization"
 subtitle: "Submission for IEEE VISAP 2022"
 description: "Data Visualization, Creative Coding"
 date: 2022-06-10T23:48:59-07:00
-author: "Jiabao Li, Houjiang Liu, Alex, Alec McGail, Di Wu, Ying Ding"
+author: "Jiabao Li, Houjiang Liu, Jilie, Alec McGail, Di Wu, Ying Ding"
 draft: false
 
 tags: [P5JS, ExpressJS, NodeJS, Docker]

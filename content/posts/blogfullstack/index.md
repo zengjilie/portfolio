@@ -4,7 +4,7 @@ title: "Blog/XYZ - Full Stack"
 description: "How I built a fullstack website in 5 days"
 date: 2022-01-17T23:44:51-06:00
 draft: false 
-author: "Alex"
+author: "Jilie"
 
 tags: [ReactJS, NodeJS, ExpressJS, MongoDB, Netlify, Heroku, AWS]
 categories: [Full Stack]

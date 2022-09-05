@@ -4,7 +4,7 @@ description: "Service design proejct, team of 5"
 date: 2019-12-08T16:19:43-06:00
 draft: false
 
-author: "Alex"
+author: "Jilie"
 
 tags: [UI/UX]
 categories: [UI/UX]

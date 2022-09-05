@@ -11,79 +11,28 @@ code:
 {{< /style >}}
 
 ## Who I am 
-Howdy! I'm Alex 👋
+Howdy! I'm Jilie👋
 
-An Industrial designer turned **software engineer**. I have a passion for both **design** and **software development**. I believe that excellent products come from the harmony between design, engineering, and a human-centered mindset. Currently, I’m a graduate student at **UT Austin** and am looking for 2022 summer internships.
+An Industrial designer turned **software engineer**. I have a passion for both **design** and **software development**. I believe that excellent products come from the harmony between design, engineering, and a human-centered mindset. Currently, I’m a graduate student at **UT Austin** and am looking for 2023 full-time opportunities.
 
 ## Tech I use 
 
 **Programming Languages**
-    - Java, Python, JavaScript, C, C# 
+    - JavaScript/TypeScript, Python, Java, C, C#, HTML/CSS
 
-**Frontend**
-    - ReactJS/Redux, NextJS, BootStrap, HTML/CSS/SASS, P5JS, ThreeJS, Apache Echarts,
+**Technologies**
+    - ReactJS/Redux, NextJS, JQuery, SCSS/LESS, Node, Express, EJS, PostgreSQL, MongoDB 
 
-**Backend**
-    - NodeJS, ExpressJS, EJS, PostgreSQL, MongoDB, MySQL
+**Miscellaneous**
+    - Docker, Airflow, AWS, Linux/Unix, JUnit, Jest, Cypress
 
-**Others**
-    - AWS, Firebase, MongoDB Atlas, Version Control, Linux/Unix
-
-**Learning**
-    - TypeScript, Redis, Docker
-
-**Relevant Coursework**
-    - Operating Systems, Algorithms, Data Mining, Database Management, AI in Health, Software Design and Implementation II
-
-**Design**
-    - Adobe XD, Figma, Adobe Creative Suite, Rhino3D, Keyshot
-
-## Education
-
-**University of Texas at Austin**
-
-Master of Science in Information Science/Studies
-
-2021 - persent
-
-|
-
-**National Taiwan University of Science and Technology**
-
-Bachelor of Design in Industrial Design
-
-2016 - 2020
-
-## Awards
-**KYMCO Motorcycle Design Competition, Finalist**
-
-Transportation Design
-
-2020
-
-\+
-
-**Corning Future Innovator Competition, Merit Award**
-
-Product Design (10,000 TWD)
-
-2018
-
-\+
-
-**Corning Future Innovator Competition, Merit Award**
-
-Product Design (10,000 TWD)
-
-2017
+**Creative tools**
+    - Adobe XD, Figma, Adobe Creative Suite, Lottie, Apache ECharts, P5JS, ThreeJS
 
 ## Interests
+- Mechanical Keyboard, 
+- Table Tennis, Skateboard
+- Math Rock, Jazz Fusion, J-Rock
 
-**Tech** 
-    -Config my Vim, Mechanical Keyboard
-
-**Sports**
-    -Table Tennis, Fitness
-
-**Music**
-    -Math Rock, Electric, Jazz Fusion, J-Rock
+## Resume
+[**👉 Link**](https://drive.google.com/file/d/170yQlPZG4XqQsc-fzWDiDSq739l3lhSD/view?usp=sharing)

@@ -4,7 +4,7 @@ title: "Ecommerce website - Full Stack"
 date: 2022-01-03T21:20:59-06:00
 description: "Amazon clone"
 draft: false
-author: "Alex"
+author: "Jilie"
 
 tags: [ReactJS, NodeJS, ExpressJS, Firebase, StripeJS, CSS]
 categories: [Full-Stack]

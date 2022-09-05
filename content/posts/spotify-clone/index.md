@@ -3,7 +3,7 @@ weight: 3
 title: "Spotify Dummy Project - Front End"
 description: "Spotify clone"
 date: 2022-01-06T21:16:51-06:00
-author: "Alex"
+author: "Jilie"
 
 tags: [NextJS, ReactJS, NextAuthJS, Recoil, Tailwind CSS]
 categories: [Front-End]

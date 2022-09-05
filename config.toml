@@ -1,6 +1,6 @@
 baseURL = "https://zengjilie.netlify.app/"
 languageCode = 'en-us'
-title = "Alex Zeng"
+title = "Jilie Zeng"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt-1"
@@ -16,7 +16,7 @@ theme = "LoveIt-1"
   images = ["/logo.png"] 
 
 [params.app]
-  title = "Alex"
+  title = "Jilie"
   svgFavicon = ""
 
 [params.search] 
@@ -34,7 +34,7 @@ theme = "LoveIt-1"
   mobileMode = "auto"
   [params.header.title]
     logo = ""
-    name = "Alex's Portfolio"
+    name = "Jilie's Portfolio"
 
 [params.footer]
   enable = true
@@ -48,7 +48,7 @@ theme = "LoveIt-1"
   [params.home.profile]
     enable = true
     avatarURL = "https://avatars.githubusercontent.com/u/68725934?s=400&u=16cedd8ba469f8748ccdf8fea21e6fed5976d52c&v=4"
-    title = "Alex Zeng"
+    title = "Jilie Zeng ( jí-liè zēng )"
     subtitle = "Software Engineer"
     typeit = true
     social = true
@@ -128,7 +128,7 @@ theme = "LoveIt-1"
     noClasses = false    
 
 [author]
-  name = "Alex Zeng"
+  name = "Jilie Zeng"
   email = "zengjiile@gmail.com"
   link = ""
 

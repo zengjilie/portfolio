@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Alex Zeng</title>
+        <title>Categories - Category - Jilie Zeng</title>
         <link>https://zengjilie.netlify.app/categories/</link>
-        <description>Categories - Category - Alex Zeng</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Alex Zeng)</managingEditor>
-            <webMaster>zengjiile@gmail.com (Alex Zeng)</webMaster><lastBuildDate>Fri, 10 Jun 2022 23:48:59 -0700</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/" rel="self" type="application/rss+xml" /><item>
+        <description>Categories - Category - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Fri, 10 Jun 2022 23:48:59 -0700</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Data Visualization</title>
     <link>https://zengjilie.netlify.app/categories/data-visualization/</link>
     <pubDate>Fri, 10 Jun 2022 23:48:59 -0700</pubDate>

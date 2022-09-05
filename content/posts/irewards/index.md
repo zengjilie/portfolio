@@ -4,7 +4,7 @@ subtitle: "NTU Entrepreneurship Project. It's called 卡伯 in Taiwan"
 description: "NTU Entrepreneurship Proejct, team of 5"
 date: 2020-05-08T13:01:55-06:00
 draft: false
-author: "Alex"
+author: "Jilie"
 
 tags: [UI/UX]
 categories: [UI/UX]
