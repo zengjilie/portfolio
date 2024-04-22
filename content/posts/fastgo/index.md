@@ -1,4 +1,5 @@
 ---
+weight: 2
 title: "Fastgo - Industrial Design"
 subtitle: "My graduation industrial design project"
 description: "My graduation industrial design project"

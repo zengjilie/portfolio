@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: "Oh My BIBLE - Full Stack"
 subtitle: "Fullstack Challenge for Internship Program"
 description: "Also a gift for all my Christian friends"

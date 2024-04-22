@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: "AI in Health Workshop - Front End"
+weight: 2
+title: "AI in Health Workshop"
 date: 2022-02-09T18:53:55-06:00
 description: "Website built for UT Austin AI in Health Workshop WWW 2022 "
 draft: false

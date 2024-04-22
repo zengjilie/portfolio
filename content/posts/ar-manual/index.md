@@ -1,8 +1,8 @@
 ---
-weight : 3
+weight : 1
 title: "AR User Manual - UI/UX - AR"
 description: "How I built an AR user manual in 7 days"
-date: 2020-08-08T11:18:50-06:00
+date: 2019-06-06T11:18:50-06:00
 draft: false
 author: "Jilie"
 

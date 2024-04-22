@@ -1,4 +1,5 @@
 ---
+weight: 3
 title: "Resume - Front End"
 description: "Personal resume"
 date: 2022-01-07T22:42:36-06:00

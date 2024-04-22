@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Covid Kit - UI/UX - Full Stack"
 description: "How I built a WeChat Mini Program in 30 days"
 date: 2020-07-07T23:06:21-06:00
@@ -17,8 +18,6 @@ lightgallery : true
 ---
 
 <!--more-->
-
-**Duration** - 1 month
 
 **My Role** UI/UX Designer, Developer
 

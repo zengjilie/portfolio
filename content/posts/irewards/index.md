@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "iRewards - UI/UX"
 subtitle: "NTU Entrepreneurship Project. It's called 卡伯 in Taiwan"
 description: "NTU Entrepreneurship Proejct, team of 5"

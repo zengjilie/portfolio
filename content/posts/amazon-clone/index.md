@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: "Ecommerce website - Full Stack"
 date: 2022-01-03T21:20:59-06:00
 description: "Amazon clone"
