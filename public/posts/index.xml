@@ -5,6 +5,42 @@
         <description>All Posts | Jilie Zeng</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
             <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Fri, 10 Jun 2022 23:48:59 -0700</lastBuildDate><atom:link href="https://zengjilie.netlify.app/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Covid Kit - UI/UX - Full Stack</title>
+    <link>https://zengjilie.netlify.app/posts/covid-kit/</link>
+    <pubDate>Tue, 07 Jul 2020 23:06:21 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/covid-kit/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/covid-kit/index.png" referrerpolicy="no-referrer">
+            </div>How I built a WeChat Mini Program in 30 days]]></description>
+</item><item>
+    <title>iRewards - UI/UX</title>
+    <link>https://zengjilie.netlify.app/posts/irewards/</link>
+    <pubDate>Fri, 08 May 2020 13:01:55 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/irewards/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/irewards/index.png" referrerpolicy="no-referrer">
+            </div>NTU Entrepreneurship Proejct, team of 5]]></description>
+</item><item>
+    <title>Bridge - UI/UX</title>
+    <link>https://zengjilie.netlify.app/posts/bridge/</link>
+    <pubDate>Sun, 08 Dec 2019 16:19:43 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/bridge/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/bridge/index.png" referrerpolicy="no-referrer">
+            </div>Service design proejct, team of 5]]></description>
+</item><item>
+    <title>AR User Manual - UI/UX - AR</title>
+    <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
+    <pubDate>Thu, 06 Jun 2019 11:18:50 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ar-manual/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
+            </div>How I built an AR user manual in 7 days]]></description>
+</item><item>
     <title>Mentor Trees - Data Visualization</title>
     <link>https://zengjilie.netlify.app/posts/mentor-tree/</link>
     <pubDate>Fri, 10 Jun 2022 23:48:59 -0700</pubDate>
@@ -23,7 +59,7 @@
                 <img src="/posts/ohmybible/index.png" referrerpolicy="no-referrer">
             </div>Also a gift for all my Christian friends]]></description>
 </item><item>
-    <title>AI in Health Workshop - Front End</title>
+    <title>AI in Health Workshop</title>
     <link>https://zengjilie.netlify.app/posts/ai-health/</link>
     <pubDate>Wed, 09 Feb 2022 18:53:55 -0600</pubDate>
     <author>Author</author>
@@ -50,49 +86,13 @@
                 <img src="/posts/amazon-clone/index.png" referrerpolicy="no-referrer">
             </div>Amazon clone]]></description>
 </item><item>
-    <title>Uber Dummy Project - Mobile App</title>
-    <link>https://zengjilie.netlify.app/posts/uber-clone/</link>
-    <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
+    <title>Fastgo - Industrial Design</title>
+    <link>https://zengjilie.netlify.app/posts/fastgo/</link>
+    <pubDate>Wed, 08 Jan 2020 18:01:10 -0600</pubDate>
     <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
+    <guid>https://zengjilie.netlify.app/posts/fastgo/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
-            </div>Uber clone]]></description>
-</item><item>
-    <title>Spotify Dummy Project - Front End</title>
-    <link>https://zengjilie.netlify.app/posts/spotify-clone/</link>
-    <pubDate>Thu, 06 Jan 2022 21:16:51 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/spotify-clone/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/spotify-clone/index.png" referrerpolicy="no-referrer">
-            </div>Spotify clone]]></description>
-</item><item>
-    <title>AR User Manual - UI/UX - AR</title>
-    <link>https://zengjilie.netlify.app/posts/ar-manual/</link>
-    <pubDate>Sat, 08 Aug 2020 11:18:50 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/ar-manual/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/ar-manual/index.png" referrerpolicy="no-referrer">
-            </div>How I built an AR user manual in 7 days]]></description>
-</item><item>
-    <title>Resume - Front End</title>
-    <link>https://zengjilie.netlify.app/posts/resume/</link>
-    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
-            </div>Personal resume]]></description>
-</item><item>
-    <title>Covid Kit - UI/UX - Full Stack</title>
-    <link>https://zengjilie.netlify.app/posts/covid-kit/</link>
-    <pubDate>Tue, 07 Jul 2020 23:06:21 -0600</pubDate>
-    <author>Author</author>
-    <guid>https://zengjilie.netlify.app/posts/covid-kit/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/covid-kit/index.png" referrerpolicy="no-referrer">
-            </div>How I built a WeChat Mini Program in 30 days]]></description>
+                <img src="/posts/fastgo/index.png" referrerpolicy="no-referrer">
+            </div>My graduation industrial design project]]></description>
 </item></channel>
 </rss>

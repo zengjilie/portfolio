@@ -2,14 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://zengjilie.netlify.app/posts/covid-kit/</loc><lastmod>2020-07-07T23:06:21-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/irewards/</loc><lastmod>2020-05-08T13:01:55-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/bridge/</loc><lastmod>2019-12-08T16:19:43-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/ar-manual/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/mentor-tree/</loc><lastmod>2022-06-10T23:48:59-07:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/ohmybible/</loc><lastmod>2022-03-06T16:20:23-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/ai-health/</loc><lastmod>2022-02-09T18:53:55-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/blogfullstack/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/amazon-clone/</loc><lastmod>2022-01-03T21:20:59-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/fastgo/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/posts/resume/</loc><lastmod>2022-01-07T22:42:36-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/uber-clone/</loc><lastmod>2022-01-07T13:44:16-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/posts/spotify-clone/</loc><lastmod>2022-01-06T21:16:51-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/ar-manual/</loc><lastmod>2020-08-08T11:18:50-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/categories/</loc><lastmod>2022-06-10T23:48:59-07:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/categories/data-visualization/</loc><lastmod>2022-06-10T23:48:59-07:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/docker/</loc><lastmod>2022-06-10T23:48:59-07:00</lastmod></url><url>
@@ -31,7 +36,6 @@
             <loc>https://zengjilie.netlify.app/tags/heroku/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/mongodb/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/netlify/</loc><lastmod>2022-01-17T23:44:51-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/resume/</loc><lastmod>2022-01-07T22:42:36-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/tailwind-css/</loc><lastmod>2022-01-07T22:42:36-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/google-maps/</loc><lastmod>2022-01-07T13:44:16-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/categories/mobile-app/</loc><lastmod>2022-01-07T13:44:16-06:00</lastmod></url><url>
@@ -42,18 +46,14 @@
             <loc>https://zengjilie.netlify.app/tags/recoil/</loc><lastmod>2022-01-06T21:16:51-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/firebase/</loc><lastmod>2022-01-03T21:20:59-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/stripejs/</loc><lastmod>2022-01-03T21:20:59-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/categories/ar/</loc><lastmod>2020-08-08T11:18:50-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/unity3d/</loc><lastmod>2020-08-08T11:18:50-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/tags/vuforia/</loc><lastmod>2020-08-08T11:18:50-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/covid-kit/</loc><lastmod>2020-07-07T23:06:21-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/wechat-mini-program/</loc><lastmod>2020-07-07T23:06:21-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/irewards/</loc><lastmod>2020-05-08T13:01:55-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/fastgo/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/industrial-design/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/categories/industrial-design/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/keyshot/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/rhino3d/</loc><lastmod>2020-01-08T18:01:10-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/posts/bridge/</loc><lastmod>2019-12-08T16:19:43-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/categories/ar/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/unity3d/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
+            <loc>https://zengjilie.netlify.app/tags/vuforia/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/about/</loc></url><url>
             <loc>https://zengjilie.netlify.app/tags/ui/ux/</loc></url><url>
             <loc>https://zengjilie.netlify.app/categories/ui/ux/</loc></url></urlset>
