@@ -34,7 +34,7 @@ theme = "LoveIt-1"
   mobileMode = "auto"
   [params.header.title]
     logo = ""
-    name = "👨‍💻 Jilie Zeng"
+    name = "👨‍💻 Portfolio"
 
 [params.footer]
   enable = true
@@ -49,11 +49,11 @@ theme = "LoveIt-1"
     enable = true
     avatarURL = "https://avatars.githubusercontent.com/u/68725934?s=400&u=16cedd8ba469f8748ccdf8fea21e6fed5976d52c&v=4"
     title = "Jilie Zeng"
-    subtitle = "UX Designer & Developer"
+    subtitle = "Full Stack Engineer"
     typeit = true
     social = true
   [params.home.posts]
-    enable = true
+    enable =true
     paginate = 6
 
 [params.typit]
@@ -63,6 +63,7 @@ theme = "LoveIt-1"
   Github = "zengjilie"
   Linkedin = "jilie-zeng-480857200"
   Email = "zengjilie@gmail.com"
+  Resume = "https://drive.google.com/file/d/1b6r8rB1HrLJbUWbYQK9HjY5I8VW9Xt2u/view?usp=sharing"
   RSS = true 
 
 [params.page]
@@ -84,13 +85,14 @@ theme = "LoveIt-1"
       anonymizeIP = true
 
 [menu]
+
   [[menu.main]]
-    identifier = "about"
+    identifier = "home"
     pre = ""
     post = ""
-    name = "About"
-    url = "/about/"
-    title = ""
+    name = "Home"
+    url = "/"
+    title = "home"
     weight = 1
 
   [[menu.main]]
@@ -99,17 +101,26 @@ theme = "LoveIt-1"
     post = ""
     name = "Works"
     url = "/posts/"
-    title = ""
+    title = "all posts"
     weight = 2
 
   [[menu.main]]
-    identifier = "tags"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "About"
+    url = "/about/"
     title = ""
     weight = 3
+
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   pre = ""
+  #   post = ""
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   title = ""
+  #   weight = 3
 
   [[menu.main]]
     identifier = "categories"

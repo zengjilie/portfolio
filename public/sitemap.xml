@@ -54,6 +54,6 @@
             <loc>https://zengjilie.netlify.app/categories/ar/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/unity3d/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
             <loc>https://zengjilie.netlify.app/tags/vuforia/</loc><lastmod>2019-06-06T11:18:50-06:00</lastmod></url><url>
-            <loc>https://zengjilie.netlify.app/about/</loc></url><url>
+            <loc>https://zengjilie.netlify.app/about/</loc><priority>0</priority></url><url>
             <loc>https://zengjilie.netlify.app/tags/ui/ux/</loc></url><url>
             <loc>https://zengjilie.netlify.app/categories/ui/ux/</loc></url></urlset>
