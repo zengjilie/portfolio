@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Keyshot - Tag - Jilie Zeng</title>
+        <link>https://zengjilie.netlify.app/tags/keyshot/</link>
+        <description>Keyshot - Tag - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Wed, 08 Jan 2020 18:01:10 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/keyshot/" rel="self" type="application/rss+xml" /><item>
+    <title>Fastgo - Industrial Design</title>
+    <link>https://zengjilie.netlify.app/posts/fastgo/</link>
+    <pubDate>Wed, 08 Jan 2020 18:01:10 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/fastgo/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/fastgo/index.png" referrerpolicy="no-referrer">
+            </div>My graduation industrial design project]]></description>
+</item></channel>
+</rss>

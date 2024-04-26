@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HTML - Tag - Jilie Zeng</title>
+        <link>https://zengjilie.netlify.app/tags/html/</link>
+        <description>HTML - Tag - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Sun, 06 Mar 2022 16:20:23 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/tags/html/" rel="self" type="application/rss+xml" /><item>
+    <title>Oh My BIBLE - Full Stack</title>
+    <link>https://zengjilie.netlify.app/posts/ohmybible/</link>
+    <pubDate>Sun, 06 Mar 2022 16:20:23 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ohmybible/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ohmybible/index.png" referrerpolicy="no-referrer">
+            </div>Also a gift for all my Christian friends]]></description>
+</item><item>
+    <title>AI in Health Workshop</title>
+    <link>https://zengjilie.netlify.app/posts/ai-health/</link>
+    <pubDate>Wed, 09 Feb 2022 18:53:55 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/ai-health/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/ai-health/health.png" referrerpolicy="no-referrer">
+            </div>Website built for UT Austin AI in Health Workshop WWW 2022 ]]></description>
+</item><item>
+    <title>Resume - Front End</title>
+    <link>https://zengjilie.netlify.app/posts/resume/</link>
+    <pubDate>Fri, 07 Jan 2022 22:42:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/resume/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/resume/index.png" referrerpolicy="no-referrer">
+            </div>Personal resume]]></description>
+</item></channel>
+</rss>

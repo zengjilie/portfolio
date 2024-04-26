@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mobile App - Category - Jilie Zeng</title>
+        <link>https://zengjilie.netlify.app/categories/mobile-app/</link>
+        <description>Mobile App - Category - Jilie Zeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zengjiile@gmail.com (Jilie Zeng)</managingEditor>
+            <webMaster>zengjiile@gmail.com (Jilie Zeng)</webMaster><lastBuildDate>Fri, 07 Jan 2022 13:44:16 -0600</lastBuildDate><atom:link href="https://zengjilie.netlify.app/categories/mobile-app/" rel="self" type="application/rss+xml" /><item>
+    <title>Uber Dummy Project - Mobile App</title>
+    <link>https://zengjilie.netlify.app/posts/uber-clone/</link>
+    <pubDate>Fri, 07 Jan 2022 13:44:16 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://zengjilie.netlify.app/posts/uber-clone/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/uber-clone/uber.png" referrerpolicy="no-referrer">
+            </div>Uber clone]]></description>
+</item></channel>
+</rss>
