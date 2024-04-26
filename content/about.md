@@ -1,6 +1,6 @@
 # 🤓 About Me
 
-I'm a junior software engineer at the early stage of my professional career. I previously worked at a fast-growing startup, [Stitch3D](www.stitch3d.io) as a software engineer, where I gained a whole bunch of knowledge in product management and production-level web development. Before that, I was a graduate student at UT Austin pursuing a master's degree in information science. During that time, I worked as a web developer and research assistant. I also interned at [Supplyframe](www.supplyframe.com) as a full-stack engineer during the summer, where I had the opportunity to work with some exceptionally talented engineers. Now, I'm ready to embark on the next chapter of my career.
+I'm a junior software engineer at the early stage of my professional career. I previously worked at a fast-growing startup, [Stitch3D](https://www.stitch3d.io) as a software engineer, where I gained a whole bunch of knowledge in product management and production-level web development. Before that, I was a graduate student at UT Austin pursuing a master's degree in information science. During that time, I worked as a web developer and research assistant. I also interned at [Supplyframe](https://www.supplyframe.com) as a full-stack engineer during the summer, where I had the opportunity to work with some exceptionally talented engineers. Now, I'm ready to embark on the next chapter of my career.
 
 
 
